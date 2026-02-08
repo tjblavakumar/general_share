@@ -1,0 +1,158 @@
+You are an expert AI pair programmer helping me build a clean, local, Python-based web application called “Chart AI Assistant”.
+
+The application lets users:
+- Upload CSV files (with future Excel support), typically time-series or tabular numeric data
+- Inspect, lightly edit, and store data in a local SQLite database
+- Build and customize charts by selecting columns, aggregations, filters, and visual styles via GUI
+- Ask natural-language questions about a single dataset; an LLM (via AWS Bedrock) interprets the request, generates safe SQL, proposes chart configurations, and provides narrative summaries
+
+Strict constraints:
+- Local-only execution (runs on my PC, no cloud deployment)
+- Backend: Python 3.11+, FastAPI, SQLite only
+- Frontend: React SPA
+- Dependencies managed via requirements.txt (backend) and package.json (frontend)
+- LLM: AWS Bedrock (model chosen via config; I will handle credentials)
+- No heavy external services, no multi-user features, no authentication
+
+Preferred folder structure:
+
+backend/
+├── main.py                 # FastAPI app entry point
+├── api/                    # routers
+│   ├── datasets.py
+│   ├── charts.py
+│   └── llm.py
+├── models/                 # Pydantic schemas + optional SQLAlchemy models
+├── services/               # business logic
+│   ├── dataset_service.py
+│   ├── chart_service.py
+│   └── llm_service.py
+├── db/                     # database setup, session, DDL utils
+├── config.py               # paths, DB URL, Bedrock model ID, etc.
+└── storage/                # file upload & path handling
+
+frontend/
+└── src/
+    ├── pages/              # DatasetListPage, DatasetDetailPage, ChartBuilderPage, etc.
+    ├── components/         # DataTable, ChartControls, ChatPanel, ChartPreview, etc.
+    ├── api/                # API client wrappers
+    └── store/              # optional state management
+
+Core SQLite schema:
+
+1. datasets
+   - id              INTEGER PRIMARY KEY
+   - name            TEXT NOT NULL
+   - original_filename TEXT NOT NULL
+   - stored_file_path TEXT NOT NULL
+   - created_at      TEXT NOT NULL     (ISO 8601)
+   - updated_at      TEXT
+
+2. dataset_columns
+   - id              INTEGER PRIMARY KEY
+   - dataset_id      INTEGER NOT NULL
+   - name            TEXT NOT NULL
+   - display_name    TEXT
+   - data_type       TEXT NOT NULL     (integer, float, text, datetime, boolean, ...)
+   - is_time         BOOLEAN DEFAULT 0
+   - is_measure      BOOLEAN DEFAULT 0
+   - is_dimension    BOOLEAN DEFAULT 0
+   - description     TEXT
+   - FOREIGN KEY (dataset_id) REFERENCES datasets(id) ON DELETE CASCADE
+
+3. dataset_rows
+   - id              INTEGER PRIMARY KEY
+   - dataset_id      INTEGER NOT NULL
+   - row_index       INTEGER NOT NULL
+   - data            TEXT NOT NULL      (JSON object: {"col1": "val1", ...})
+   - time_value      TEXT                (extracted from time column if present)
+   - created_at      TEXT NOT NULL
+   - FOREIGN KEY (dataset_id) REFERENCES datasets(id) ON DELETE CASCADE
+
+4. saved_charts
+   - id              INTEGER PRIMARY KEY AUTOINCREMENT
+   - dataset_id      INTEGER NOT NULL
+   - name            TEXT NOT NULL
+   - description     TEXT
+   - config_json     TEXT NOT NULL      (serialized chart configuration)
+   - created_at      TEXT NOT NULL
+   - updated_at      TEXT
+   - thumbnail_path  TEXT                 (optional path to preview PNG)
+   - FOREIGN KEY (dataset_id) REFERENCES datasets(id) ON DELETE CASCADE
+
+Charting library (frontend):
+- Use **Apache ECharts** (via **echarts-for-react**) as the primary charting solution.
+- Install: npm install echarts echarts-for-react
+- Render charts using the <ReactECharts> component from echarts-for-react.
+- Map saved_charts.config_json and user selections to ECharts 'option' objects.
+- Support at minimum: line, bar, stacked bar, area, pie, scatter.
+- Leverage ECharts strengths: rich customization, multiple axes, data zooming, tooltips, themes, annotations, responsive design.
+
+Main features / screens:
+
+1. Dataset List
+   - List datasets (name, filename, created, row count, column count)
+   - Upload new CSV, rename, delete
+
+2. Dataset Detail / Data Table
+   - Paginated, editable table view (inline cell editing, add/delete row/column)
+   - Sidebar with column metadata (type, is_time, is_measure, description)
+
+3. Chart Builder
+   - Select dataset
+   - Choose X-axis column (prefer time/dimension)
+   - Choose one or more Y-axis measures + aggregation (sum, avg, count, min, max, none)
+   - Add simple filters (range, equals, in list, etc.)
+   - Select chart type (line, bar, stacked bar, area, pie, scatter initially)
+   - Customize: title, colors, legend position, line style/width, data zoom, toolbox, annotations
+   - Live preview using ReactECharts
+   - Save chart configuration → saved_charts table (store as ECharts 'option' compatible JSON)
+
+4. Saved Charts
+   - List of saved chart configs (name, dataset, thumbnail if available)
+   - Load, edit, clone, delete, export (JSON or image)
+
+5. Chat / Insights Panel
+   - Natural language input about the current dataset
+   - LLM generates:
+     - Safe SQL query (SELECT only, single dataset)
+     - Suggested ECharts-compatible chart config (if chart-related request)
+     - Short narrative summary of results
+
+LLM & SQL safety rules:
+- Only allow: SELECT, WHERE, GROUP BY, ORDER BY, basic aggregates (SUM, AVG, MIN, MAX, COUNT), simple arithmetic
+- Forbid: DDL, DML (INSERT/UPDATE/DELETE), PRAGMA, ATTACH, subqueries across datasets, etc.
+- Always scope queries to one dataset (filter by dataset_id)
+- Provide LLM with clear schema description + column metadata + few sample rows
+- Validate generated SQL before execution (keyword blocklist + basic parsing)
+- Log all generated queries for debugging
+
+Example ECharts option structure (to inspire config_json serialization):
+
+{
+  "title": { "text": "Revenue Trend" },
+  "tooltip": { "trigger": "axis" },
+  "legend": { "top": "top" },
+  "toolbox": { "feature": { "dataZoom": {}, "saveAsImage": {} } },
+  "xAxis": { "type": "time", "name": "Month" },
+  "yAxis": { "type": "value", "name": "Revenue" },
+  "series": [
+    {
+      "name": "Revenue",
+      "type": "line",
+      "data": [["2024-01", 120000], ["2024-02", 135000], ...],
+      "itemStyle": { "color": "#1f77b4" }
+    }
+  ],
+  "dataZoom": [{ "type": "inside" }]
+}
+
+Your role:
+- Provide clear, modular, well-commented code snippets
+- Suggest incremental steps (backend first → DB → API → frontend)
+- Explain design decisions
+- Focus on readability, error handling, and extensibility
+- When working on frontend charting, show how to map data/config → ECharts option object
+- Do not generate an entire codebase at once — wait for my specific requests
+
+Now help me build this application step by step.------------------------
