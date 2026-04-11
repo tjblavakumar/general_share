@@ -1,0 +1,97 @@
+[
+  {
+    "id": "SM-00001",
+    "platform": "twitter",
+    "author_type": "journalist",
+    "author_handle": "@EconNewsDaily",
+    "text": "BREAKING: Fed holds rates steady at 5.25-5.50% as expected. Powell signals data-dependent approach moving forward. Markets rally on dovish tone. #FOMC #FederalReserve #InterestRates",
+    "sentiment": "neutral",
+    "sentiment_score": 0.1,
+    "topic": "fed_rate_decision",
+    "engagement_score": 1247,
+    "reply_count": 89,
+    "repost_count": 342,
+    "timestamp": "2024-03-20T14:32:18Z",
+    "hashtags": [
+      "FOMC",
+      "FederalReserve",
+      "InterestRates"
+    ]
+  },
+  {
+    "id": "SM-00002",
+    "platform": "reddit",
+    "author_type": "financial_analyst",
+    "author_handle": "u/QuantAnalyst42",
+    "text": "Analysis of FRBSF President Mary Daly's recent speech on r/economics:\n\nDaly emphasized the need for continued restrictive policy despite recent inflation improvements. Key takeaways:\n\n1) Core PCE still above 2% target (2.8% latest reading)\n2) Labor market remains tight - unemployment at 3.7%\n3) She's advocating for patience before cutting rates\n\nThis aligns with the broader FOMC hawkish stance. The SF Fed's research on inflation persistence suggests we might not see cuts until Q3 2024 at earliest. Treasury yields responding accordingly - 10Y now at 4.32%.\n\nThoughts on whether the Fed is being too cautious here? Housing costs are a major component keeping inflation elevated.",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topic": "fed_chair_speech",
+    "engagement_score": 456,
+    "reply_count": 127,
+    "repost_count": 23,
+    "timestamp": "2024-02-15T19:45:32Z",
+    "hashtags": []
+  },
+  {
+    "id": "SM-00003",
+    "platform": "linkedin",
+    "author_type": "economist",
+    "author_handle": "Dr. Sarah Chen",
+    "text": "Reflecting on the Federal Reserve's Quantitative Tightening Strategy\n\nAs we approach the two-year mark of the Fed's balance sheet reduction program, it's worth examining its effectiveness and implications for financial markets.\n\nThe Fed has reduced its balance sheet from $9T to approximately $7.5T, primarily through Treasury and MBS runoff. This represents one of the most aggressive QT programs in modern monetary policy history.\n\nKey observations:\n\n✓ Market liquidity remains adequate despite reduced reserves\n✓ Treasury market functioning has been resilient\n✓ The \"ample reserves\" framework appears robust\n✓ Correlation with rate policy has been well-managed\n\nHowever, questions remain about the terminal balance sheet size and whether QT is contributing to persistent financial tightening beyond rate policy alone.\n\nThe San Francisco Fed's research on monetary policy transmission mechanisms has been particularly insightful here. Their work suggests QT effects may be more gradual than initially modeled.\n\nWhat are your perspectives on the Fed's balance sheet normalization? Is the current pace sustainable through 2025?\n\n#MonetaryPolicy #FederalReserve #Economics #QuantitativeTightening #CentralBanking",
+    "sentiment": "neutral",
+    "sentiment_score": 0.2,
+    "topic": "quantitative_tightening",
+    "engagement_score": 892,
+    "reply_count": 64,
+    "repost_count": 178,
+    "timestamp": "2024-06-12T10:15:44Z",
+    "hashtags": [
+      "MonetaryPolicy",
+      "FederalReserve",
+      "Economics",
+      "QuantitativeTightening",
+      "CentralBanking"
+    ]
+  },
+  {
+    "id": "SM-00004",
+    "platform": "twitter",
+    "author_type": "public",
+    "author_handle": "@WorkingMom_SF",
+    "text": "Grocery prices still through the roof despite the Fed saying inflation is \"coming down.\" My weekly bill is up 40% from 2 years ago. When does this actually get better for regular families? 😤 #Inflation #CostOfLiving #FedPolicy",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topic": "inflation_data",
+    "engagement_score": 3421,
+    "reply_count": 612,
+    "repost_count": 891,
+    "timestamp": "2023-11-08T16:22:09Z",
+    "hashtags": [
+      "Inflation",
+      "CostOfLiving",
+      "FedPolicy"
+    ]
+  },
+  {
+    "id": "SM-00005",
+    "platform": "linkedin",
+    "author_type": "policy_commentator",
+    "author_handle": "Marcus Williams",
+    "text": "Impressed by the Federal Reserve Bank of San Francisco's latest Economic Letter on labor market dynamics. Their research team continues to produce some of the most rigorous analysis in the Federal Reserve System.\n\nThe paper examines why wage growth has remained elevated despite cooling job openings - a critical question for understanding the inflation outlook. Their econometric work suggests:\n\n→ Wage-price spiral risks have diminished significantly\n→ Labor force participation recovery is proceeding gradually\n→ Productivity gains may be absorbing some wage pressures\n\nThis analysis provides important context for the FOMC's policy deliberations. If productivity growth continues to surprise to the upside (as Q4 2024 data suggests), the Fed may have more room to ease without reigniting inflation.\n\nThe FRBSF's contribution to monetary policy research cannot be overstated. Their Economic Research department consistently publishes work that shapes both academic discourse and practical policymaking.\n\nLooking forward to their upcoming conference on monetary policy frameworks in March.\n\n#Economics #FederalReserve #LaborMarket #MonetaryPolicy #EconomicResearch",
+    "sentiment": "positive",
+    "sentiment_score": 0.75,
+    "topic": "employment_report",
+    "engagement_score": 567,
+    "reply_count": 43,
+    "repost_count": 124,
+    "timestamp": "2024-12-03T13:40:27Z",
+    "hashtags": [
+      "Economics",
+      "FederalReserve",
+      "LaborMarket",
+      "MonetaryPolicy",
+      "EconomicResearch"
+    ]
+  }
+]
