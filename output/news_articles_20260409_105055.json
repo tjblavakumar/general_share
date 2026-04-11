@@ -1,0 +1,574 @@
+[
+  {
+    "id": "NEWS-00001",
+    "source": "bloomberg",
+    "headline": "Fed Raises Rates by 75 Basis Points for Fourth Consecutive Time as Inflation Fight Intensifies",
+    "snippet": "The Federal Reserve delivered another supersized interest rate increase Wednesday, lifting the federal funds rate to a target range of 3.75%-4%, the highest level since 2008, as policymakers signaled their resolve to crush inflation running near four-decade highs.",
+    "full_text": "The Federal Reserve raised its benchmark interest rate by 75 basis points for the fourth consecutive meeting Wednesday, pushing borrowing costs to their highest level since the global financial crisis as Chair Jerome Powell vowed to keep tightening monetary policy until inflation is decisively brought to heel.\n\nThe Federal Open Market Committee voted unanimously to lift the federal funds rate to a target range of 3.75%-4%, a move that was widely anticipated by markets following a string of hotter-than-expected consumer price index readings. The decision marks the most aggressive tightening cycle since the early 1980s under Fed Chair Paul Volcker, with the central bank having raised rates by a cumulative 375 basis points since March.\n\nIn its post-meeting statement, the FOMC acknowledged that 'ongoing increases in the target range will be appropriate' to return inflation to the committee's 2% objective, while adding new language signaling that the pace of future hikes could slow as officials assess the cumulative impact of tightening on the economy. Powell, speaking at a press conference following the decision, emphasized that the ultimate level of rates would likely need to be 'somewhat higher' than previously projected.\n\nMary Daly, president of the Federal Reserve Bank of San Francisco, said in remarks ahead of the blackout period that the labor market's continued resilience gave the Fed room to maintain its aggressive posture. San Francisco Fed research published earlier this month estimated that supply-side improvements alone were insufficient to bring inflation back to target without additional demand destruction.\n\nTreasury yields surged and equities fell sharply following Powell's comments, with the two-year Treasury note yield climbing above 4.7%. Goldman Sachs economists revised their terminal rate forecast to 5%-5.25%, up from a prior estimate of 4.5%-4.75%, citing the Fed's hawkish guidance. Fed funds futures markets priced in a roughly 60% probability of a 75 basis-point hike at the December meeting, though some analysts predicted a downshift to 50 basis points if upcoming jobs and inflation data showed signs of cooling.",
+    "author": "Christopher Condon",
+    "sentiment": "negative",
+    "sentiment_score": -0.52,
+    "topics": [
+      "monetary_policy",
+      "interest_rates",
+      "inflation"
+    ],
+    "entities_mentioned": [
+      "Jerome Powell",
+      "Federal Open Market Committee",
+      "Mary Daly",
+      "Federal Reserve Bank of San Francisco",
+      "Goldman Sachs",
+      "FOMC",
+      "Federal Reserve"
+    ],
+    "risk_flag": true,
+    "risk_description": "Powell's statement that rates may need to go 'somewhat higher' than projected, combined with ambiguous guidance on the pace of future hikes, risks being interpreted inconsistently by markets and could fuel volatility if subsequent Fed speakers send conflicting signals.",
+    "published_date": "2022-11-02T18:45:00Z",
+    "word_count": 342
+  },
+  {
+    "id": "NEWS-00002",
+    "source": "wall_street_journal",
+    "headline": "San Francisco Fed's Daly Pushes Back on Premature Rate-Cut Expectations",
+    "snippet": "Federal Reserve Bank of San Francisco President Mary Daly cautioned financial markets Wednesday against pricing in aggressive interest-rate cuts for 2024, warning that the central bank still has significant work to do in its battle against inflation.",
+    "full_text": "Federal Reserve Bank of San Francisco President Mary Daly urged investors not to get ahead of the central bank on interest-rate cuts Wednesday, delivering a pointed message that policymakers remain focused on finishing the job of taming inflation even as price pressures show signs of moderating.\n\nSpeaking at a financial services conference in New York, Daly said market expectations for substantial rate reductions in 2024 were 'not aligned with the committee's thinking,' adding that the Fed needed to see 'several more months of favorable data' before it would be appropriate to consider easing monetary policy. Her comments come as traders in federal funds futures markets had priced in as many as five to six quarter-point rate cuts over the course of next year.\n\nDaly's remarks reflect a broader effort by Fed officials to push back against what they see as overly optimistic market pricing that could undermine the restrictive financial conditions necessary to keep inflation on a downward trajectory toward the 2% target. Core personal consumption expenditures inflation, the Fed's preferred gauge, stood at 3.5% in the most recent reading, still well above policymakers' objective despite meaningful progress from its mid-2022 peak.\n\n'We are not declaring victory,' Daly told the audience of economists and portfolio managers. 'The last mile of disinflation is historically the most difficult, and we need to be patient and resolute.' She noted that the San Francisco Fed's research team had found that services inflation, particularly in shelter and non-housing services, remained stubbornly elevated and could take longer to fully normalize than goods inflation.\n\nDaly's intervention illustrates the delicate communication challenge facing Fed officials as they attempt to hold the line on rates without tipping the economy into an unnecessary recession. Analysts at JPMorgan Chase said the divergence between market pricing and Fed guidance represented 'one of the largest disconnects we have observed in recent memory,' and that either officials would ultimately validate the market's dovish expectations or markets faced a painful repricing. The Fed's next policy meeting is scheduled for late January, with no rate change expected.",
+    "author": "Nick Timiraos",
+    "sentiment": "neutral",
+    "sentiment_score": -0.18,
+    "topics": [
+      "monetary_policy",
+      "interest_rates",
+      "fed_communications"
+    ],
+    "entities_mentioned": [
+      "Mary Daly",
+      "Federal Reserve Bank of San Francisco",
+      "FOMC",
+      "Federal Reserve",
+      "JPMorgan Chase"
+    ],
+    "risk_flag": true,
+    "risk_description": "The significant gap between market expectations for rate cuts and the Fed's stated guidance creates a credibility risk. If the Fed ultimately pivots more dovishly than its rhetoric suggests, it could damage the institution's forward guidance credibility and raise questions about policy consistency.",
+    "published_date": "2023-12-06T15:30:00Z",
+    "word_count": 368
+  },
+  {
+    "id": "NEWS-00003",
+    "source": "reuters",
+    "headline": "Federal Reserve Holds Rates Steady, Opens Door to Cuts as Inflation Nears Target",
+    "snippet": "The U.S. Federal Reserve kept its benchmark interest rate unchanged at a 23-year high on Wednesday but signaled that policymakers expect to begin cutting borrowing costs later in 2024 as inflation continues its gradual descent toward the central bank's 2% goal.",
+    "full_text": "The Federal Reserve held interest rates steady at their highest level in more than two decades on Wednesday and projected three quarter-point rate reductions this year, a pivot in tone that sent stock markets sharply higher and bond yields tumbling.\n\nThe Federal Open Market Committee voted unanimously to maintain the federal funds rate at a target range of 5.25%-5.5% at the conclusion of its two-day policy meeting in Washington. The accompanying statement dropped earlier language about the possibility of further rate increases, replacing it with an acknowledgment that the FOMC would need greater confidence that inflation is moving sustainably toward 2% before cutting rates.\n\nUpdated quarterly projections released alongside the decision showed Fed officials penciled in a median federal funds rate of 4.6% by year-end, consistent with three 25-basis-point reductions, unchanged from the December forecast. The so-called dot plot indicated that the majority of officials still expected the first cut to come at the June or July meeting, though Chair Jerome Powell declined to provide a specific timeline at his post-meeting press conference.\n\nThe Federal Reserve Bank of San Francisco, which publishes closely watched research on labor market dynamics and inflation persistence, recently released analysis suggesting that the disinflation process was likely to continue even without further rate increases, given the lagged effects of prior tightening still working their way through the economy. FRBSF economists estimated that monetary policy was currently operating at its most restrictive setting in roughly three decades relative to the neutral rate.\n\nFinancial markets responded enthusiastically to the Fed's more accommodative tone. The S&P 500 rose 0.9% and the Nasdaq gained 1.3%, while the yield on the 10-year Treasury note fell 10 basis points to 4.19%. Analysts at Citigroup said the meeting 'green-lit' a mid-year rate cut, while economists at Deutsche Bank cautioned that the Fed's willingness to ease policy with inflation still above target could prove premature if service-sector price pressures re-accelerated in coming months.",
+    "author": "Howard Schneider",
+    "sentiment": "positive",
+    "sentiment_score": 0.58,
+    "topics": [
+      "fomc_decisions",
+      "interest_rates",
+      "inflation"
+    ],
+    "entities_mentioned": [
+      "Jerome Powell",
+      "Federal Open Market Committee",
+      "FOMC",
+      "Federal Reserve",
+      "Federal Reserve Bank of San Francisco",
+      "Citigroup",
+      "Deutsche Bank"
+    ],
+    "risk_flag": false,
+    "risk_description": null,
+    "published_date": "2024-03-20T19:00:00Z",
+    "word_count": 355
+  },
+  {
+    "id": "NEWS-00004",
+    "source": "financial_times",
+    "headline": "Silicon Valley Bank Collapse Triggers Calls for Stronger Fed Oversight of Mid-Size Lenders",
+    "snippet": "The sudden failure of Silicon Valley Bank has reignited a fierce debate over whether the Federal Reserve's supervision of regional lenders was adequate, with critics pointing to apparent lapses in oversight by the Federal Reserve Bank of San Francisco, which served as SVB's primary federal regulator.",
+    "full_text": "The collapse of Silicon Valley Bank, the largest bank failure since the 2008 financial crisis, has thrust the Federal Reserve Bank of San Francisco into an uncomfortable spotlight, with lawmakers, former officials and industry experts questioning whether supervisors adequately monitored the rapid accumulation of interest-rate risk at the $212 billion institution.\n\nSVB's failure on Friday, which followed a bank run triggered by the lender's disclosure of a $1.8 billion loss on a portfolio of long-dated Treasury securities and mortgage-backed bonds, has led to pointed questions about why FRBSF examiners did not more aggressively flag the bank's vulnerability to rising interest rates. Documents reviewed by the Financial Times suggest that supervisors had issued warnings about SVB's liquidity risk management as early as 2021, but that the bank's remediation efforts were deemed insufficient.\n\nSan Francisco Fed President Mary Daly said in a statement that the institution takes its supervisory responsibilities 'extremely seriously' and that a full review of examination activities would be conducted. The Federal Reserve Board in Washington separately announced that Vice Chair for Supervision Michael Barr would lead an independent review of SVB's supervision and regulation, the results of which would be made public by May 1.\n\nThe episode has renewed calls from Senator Elizabeth Warren and other progressive lawmakers for tougher regulation of banks with assets between $100 billion and $250 billion, a category largely exempted from the most stringent capital and liquidity requirements under 2018 regulatory rollbacks. Former Fed Governor Daniel Tarullo said the SVB episode demonstrated the 'inherent tensions' between the Fed's regional bank structure, in which institution-specific supervisory relationships are maintained at the district level, and the need for consistent national standards.\n\nThe crisis also poses a broader challenge for the Fed's monetary policy mission. With the banking system under acute stress, investors began rapidly repricing the outlook for interest rates, with some traders betting the Fed would halt or even reverse its rate-hiking campaign to avoid exacerbating financial stability risks. That dynamic places the FOMC in a difficult position as it weighs its commitment to fighting inflation against the risk of triggering additional bank failures through continued tightening, a tension that Fed officials acknowledged would need to be carefully managed in communications ahead of the March policy meeting.",
+    "author": "Colby Smith",
+    "sentiment": "negative",
+    "sentiment_score": -0.71,
+    "topics": [
+      "banking_regulation",
+      "financial_stability",
+      "monetary_policy"
+    ],
+    "entities_mentioned": [
+      "Mary Daly",
+      "Federal Reserve Bank of San Francisco",
+      "Silicon Valley Bank",
+      "SVB",
+      "Michael Barr",
+      "Federal Reserve",
+      "Elizabeth Warren",
+      "Daniel Tarullo",
+      "FOMC"
+    ],
+    "risk_flag": true,
+    "risk_description": "The FRBSF faces significant reputational and institutional risk as SVB's primary regulator. Questions about supervisory failures could undermine public confidence in the Fed's oversight capabilities and create political pressure to restructure the regional Fed system, while simultaneously complicating the FOMC's monetary policy communications during a period of acute financial stress.",
+    "published_date": "2023-03-11T12:00:00Z",
+    "word_count": 432
+  },
+  {
+    "id": "NEWS-00005",
+    "source": "cnbc",
+    "headline": "Fed Cuts Rates for Third Time in 2024 but Signals Slower Pace of Easing Ahead",
+    "snippet": "The Federal Reserve reduced its benchmark interest rate by a quarter percentage point Wednesday, delivering its third consecutive cut this year, but updated economic projections showed policymakers now expect fewer reductions in 2025 as inflation proves stickier than hoped.",
+    "full_text": "The Federal Reserve cut interest rates for the third time in 2024 on Wednesday but sharply scaled back its outlook for further easing next year, sending a clear signal to markets that the pace of policy normalization is set to slow considerably as inflation remains above the central bank's 2% target.\n\nThe Federal Open Market Committee voted 11-1 to reduce the federal funds rate by 25 basis points to a target range of 4.25%-4.5%, with Cleveland Fed President Beth Hammack dissenting in favor of holding rates steady. The move had been widely expected by markets, though the hawkish tone of the accompanying projections caught many investors off guard. The updated dot plot showed officials now expect just two quarter-point cuts in 2025, down from four reductions penciled in at the September meeting.\n\nChair Jerome Powell acknowledged at his press conference that the Fed was 'in a good place' but that the final stages of returning inflation to target were proving more challenging than anticipated. Core PCE inflation stood at 2.4% in the most recent reading, still above the 2% goal, and recent upside surprises in services inflation had caused some officials to revise up their estimates for where the neutral rate of interest currently sits.\n\nResearchers at the Federal Reserve Bank of San Francisco published a timely analysis this week examining 'r-star,' or the neutral rate of interest, finding that estimates of the long-run equilibrium rate had risen materially since the pandemic, potentially limiting how far the Fed can cut rates before monetary policy becomes accommodative rather than restrictive. The paper attracted significant attention from market participants and was cited by several Fed officials in speeches during the pre-meeting blackout runup period.\n\nFinancial markets reacted negatively to the hawkish pivot, with the S&P 500 tumbling 3% in its worst post-Fed reaction in more than two years, while the two-year Treasury yield spiked 12 basis points to 4.38%. Analysts at Morgan Stanley said the Fed had effectively communicated a 'higher for longer, part two' message, while economists at Bank of America predicted just one additional cut in 2025 given the resilience of consumer spending and persistent shelter inflation. The Fed's next scheduled meeting is January 28-29, with futures markets pricing in an 85% probability of no change at that gathering.",
+    "author": "Steve Liesman",
+    "sentiment": "neutral",
+    "sentiment_score": -0.22,
+    "topics": [
+      "fomc_decisions",
+      "interest_rates",
+      "economic_indicators"
+    ],
+    "entities_mentioned": [
+      "Jerome Powell",
+      "Federal Open Market Committee",
+      "FOMC",
+      "Federal Reserve",
+      "Federal Reserve Bank of San Francisco",
+      "Beth Hammack",
+      "Morgan Stanley",
+      "Bank of America"
+    ],
+    "risk_flag": false,
+    "risk_description": null,
+    "published_date": "2024-12-18T19:30:00Z",
+    "word_count": 390
+  },
+  {
+    "id": "NEWS-00006",
+    "source": "bloomberg",
+    "headline": "Fed's Daly Says More Rate Hikes Needed as Inflation Remains 'Far Too High'",
+    "snippet": "San Francisco Federal Reserve President Mary Daly said Tuesday that the central bank needs to continue raising interest rates until inflation is brought back toward its 2% target, pushing back against market expectations of an imminent policy pause.",
+    "full_text": "San Francisco Federal Reserve President Mary Daly said Tuesday that the central bank needs to continue raising interest rates until inflation is brought back toward its 2% target, pushing back against market expectations of an imminent policy pause. Speaking at a conference in San Francisco, Daly emphasized that the Fed remains firmly committed to restoring price stability even at the cost of slower economic growth.\n\nDaly noted that the federal funds rate, currently in a range of 4.50% to 4.75%, may need to rise further depending on incoming data. 'Inflation is still far too high, and the labor market remains exceptionally tight,' she said. 'We have more work to do.' Her comments came just days before the next FOMC meeting, where policymakers are expected to deliberate over the pace of future tightening.\n\nMarkets had been pricing in a possible rate pause later in the year, but Daly's remarks contributed to a repricing of rate expectations. Fed funds futures shifted to reflect a higher terminal rate, with some traders now seeing rates peaking above 5.25%. The two-year Treasury yield climbed 8 basis points to 4.62% following her comments.\n\nDaly also addressed concerns about financial stability, saying the Fed is closely monitoring stress in the banking sector but does not currently see systemic risks. She added that the central bank's quantitative tightening program, which has been reducing the balance sheet at a pace of up to $95 billion per month, remains on track.\n\nEconomists at major banks were divided in their reaction. Some argued that Daly's hawkish tone was consistent with the broader Fed narrative, while others warned that continuing to raise rates aggressively risks overshooting and triggering a hard landing. The FRBSF's own research team published a working paper last week suggesting that core PCE inflation could remain elevated through mid-year before decelerating meaningfully.",
+    "author": "Craig Torres",
+    "sentiment": "negative",
+    "sentiment_score": -0.42,
+    "topics": [
+      "monetary_policy",
+      "interest_rates",
+      "inflation"
+    ],
+    "entities_mentioned": [
+      "Mary Daly",
+      "Federal Reserve Bank of San Francisco",
+      "FOMC",
+      "PCE",
+      "CPI",
+      "Federal Reserve"
+    ],
+    "risk_flag": true,
+    "risk_description": "Daly's hawkish tone directly contradicts market expectations of a pause, potentially creating a credibility gap if the Fed subsequently softens its stance. Risks public and market backlash if rate hikes lead to sharp economic slowdown.",
+    "published_date": "2023-02-07T14:30:00Z",
+    "word_count": 312
+  },
+  {
+    "id": "NEWS-00007",
+    "source": "wall_street_journal",
+    "headline": "Fed Holds Rates Steady, Signals Cuts Could Come Later in 2024 if Inflation Cooperates",
+    "snippet": "The Federal Reserve left its benchmark interest rate unchanged for the second consecutive meeting Wednesday, while officials signaled that reductions could begin later this year if price pressures continue to ease toward the central bank's 2% goal.",
+    "full_text": "The Federal Reserve left its benchmark interest rate unchanged for the second consecutive meeting Wednesday, while officials signaled that reductions could begin later this year if price pressures continue to ease toward the central bank's 2% goal. The decision, which was unanimous among the 12 voting members of the Federal Open Market Committee, keeps the federal funds rate in a target range of 5.25% to 5.50%.\n\nFed Chairman Jerome Powell, in a press conference following the decision, struck a cautious tone, saying policymakers needed greater confidence that inflation was sustainably moving toward 2% before cutting rates. 'We're not looking for better inflation readings; we're looking for continued good readings,' Powell said. He declined to commit to any specific timeline for rate reductions, a stance that disappointed some investors hoping for clearer guidance.\n\nThe Fed's updated Summary of Economic Projections, the so-called dot plot, showed the median policymaker still anticipated three quarter-point rate cuts in 2024, unchanged from December's projections. However, there was a notable widening in the dispersion of individual forecasts, with several officials now projecting fewer cuts, reflecting the uneven progress on inflation seen in the first two months of the year.\n\nSan Francisco Fed President Mary Daly, in a brief comment to reporters on the sidelines, said she remained open-minded about the timing of cuts but wanted to see at least a few more months of favorable inflation data. Her institution's latest economic letter, released the prior week, had flagged that shelter costs and services inflation remained stickier than anticipated, a point Powell also highlighted during his press conference.\n\nFinancial markets reacted with moderate volatility. The S&P 500 ended the day fractionally lower, while the 10-year Treasury yield edged up to 4.31%. Analysts at Goldman Sachs maintained their forecast of a first rate cut in June, arguing that the Fed's tone, while cautious, was consistent with beginning an easing cycle mid-year if the data cooperated.",
+    "author": "Nick Timiraos",
+    "sentiment": "neutral",
+    "sentiment_score": 0.05,
+    "topics": [
+      "fomc_decisions",
+      "monetary_policy",
+      "interest_rates"
+    ],
+    "entities_mentioned": [
+      "Jerome Powell",
+      "Federal Open Market Committee",
+      "Mary Daly",
+      "Federal Reserve Bank of San Francisco",
+      "Federal Reserve",
+      "Goldman Sachs",
+      "FOMC",
+      "PCE"
+    ],
+    "risk_flag": false,
+    "risk_description": null,
+    "published_date": "2024-03-20T19:00:00Z",
+    "word_count": 348
+  },
+  {
+    "id": "NEWS-00008",
+    "source": "reuters",
+    "headline": "San Francisco Fed Research Warns of Persistent Inflation Driven by Services Sector",
+    "snippet": "Economists at the Federal Reserve Bank of San Francisco published research Monday suggesting that inflation in the services sector may prove more durable than headline figures imply, complicating the central bank's path toward its 2% price stability target.",
+    "full_text": "Economists at the Federal Reserve Bank of San Francisco published research Monday suggesting that inflation in the services sector may prove more durable than headline figures imply, complicating the central bank's path toward its 2% price stability target. The paper, authored by three FRBSF staff economists, found that wage growth in labor-intensive service industries continues to put upward pressure on prices even as goods inflation has moderated substantially.\n\nThe research comes as Fed officials debate how much further monetary policy tightening may be needed. Core PCE inflation, the Fed's preferred gauge, stood at 2.8% on a year-over-year basis in the most recent reading, above the 2% target but well down from its peak of over 5% in 2022. The FRBSF paper argued that the so-called 'supercore' measure, which strips out housing costs from services inflation, had not yet shown a convincing downward trend.\n\n'Our analysis suggests that the disinflation process in services is likely to be slower and bumpier than for goods,' said the paper's lead author, FRBSF research economist Sylvain Leduc. The findings echo concerns expressed by several Fed officials in recent weeks, including Fed Governor Christopher Waller, who said in a speech last month that the central bank should not rush to cut rates given the stickiness of services prices.\n\nThe paper also highlighted regional disparities, noting that shelter and healthcare service costs remained particularly elevated in Western metropolitan areas, a factor that falls squarely within the FRBSF's research purview covering the Ninth and Twelfth Federal Reserve districts.\n\nMoney markets showed little reaction to the research note, as the findings were broadly consistent with the Fed's recent communications. The federal funds rate remains at 5.25% to 5.50%, a 23-year high, with the next FOMC meeting scheduled for the following month.",
+    "author": "Ann Saphir",
+    "sentiment": "negative",
+    "sentiment_score": -0.3,
+    "topics": [
+      "inflation",
+      "monetary_policy",
+      "economic_indicators"
+    ],
+    "entities_mentioned": [
+      "Federal Reserve Bank of San Francisco",
+      "Sylvain Leduc",
+      "Christopher Waller",
+      "Federal Reserve",
+      "FOMC",
+      "PCE",
+      "CPI"
+    ],
+    "risk_flag": false,
+    "risk_description": null,
+    "published_date": "2024-02-12T10:15:00Z",
+    "word_count": 310
+  },
+  {
+    "id": "NEWS-00009",
+    "source": "cnbc",
+    "headline": "Fed Officials Send Mixed Signals on Rate Cuts, Rattling Markets",
+    "snippet": "Contradictory comments from Federal Reserve officials this week have created confusion in financial markets about the timing and pace of potential interest rate cuts, with investors struggling to reconcile dovish remarks from some regional Fed presidents against more cautious statements from Fed leadership.",
+    "full_text": "Contradictory comments from Federal Reserve officials this week have created confusion in financial markets about the timing and pace of potential interest rate cuts, with investors struggling to reconcile dovish remarks from some regional Fed presidents against more cautious statements from Fed leadership. The dissonance sent stocks and bonds on a volatile ride Thursday, with major equity indexes swinging between gains and losses before closing mixed.\n\nSan Francisco Fed President Mary Daly appeared to open the door to earlier rate cuts in a Tuesday interview, saying she could envision two to three reductions in 2024 if the economic data 'evolves as expected.' However, Fed Governor Michelle Bowman struck a sharply different tone Wednesday, warning that it would be premature to ease policy given that inflation remained above the Fed's target and the labor market was still running hot. Minneapolis Fed President Neel Kashkari went further, suggesting he now only expects one or two cuts this year, down from three in prior forecasts.\n\nThe divergence in messaging has revived concerns about the Fed's communication strategy heading into a critical period for monetary policy. 'When you have half a dozen officials saying different things in the same week, it raises questions about whether the Fed has a coherent message,' said Derek Tang, an economist at LH Meyer. 'Markets don't know which voice to listen to.'\n\nFed Chair Jerome Powell is scheduled to deliver semiannual testimony to Congress next week, and analysts say the appearance will be closely watched for any attempt to unify the Fed's message. Investors will be particularly focused on whether Powell validates or pushes back against market expectations, which currently price in roughly two quarter-point rate cuts by year-end.\n\nThe episode underscores a longstanding tension within the Fed's decentralized communication structure, in which 12 regional bank presidents and seven Washington-based governors are all free to make public statements. While this diversity of views is by design, critics argue it can amplify market volatility and undermine the effectiveness of forward guidance during sensitive junctures in the rate cycle.",
+    "author": "Steve Liesman",
+    "sentiment": "negative",
+    "sentiment_score": -0.48,
+    "topics": [
+      "fed_communications",
+      "monetary_policy",
+      "interest_rates"
+    ],
+    "entities_mentioned": [
+      "Mary Daly",
+      "Michelle Bowman",
+      "Neel Kashkari",
+      "Jerome Powell",
+      "Federal Reserve Bank of San Francisco",
+      "Federal Reserve",
+      "FOMC",
+      "Derek Tang",
+      "LH Meyer"
+    ],
+    "risk_flag": true,
+    "risk_description": "Contradictory public statements from Fed officials are generating market volatility and undermining forward guidance credibility. There is a reputational risk that the Fed appears disorganized or unable to form consensus during a pivotal policy transition period.",
+    "published_date": "2024-05-09T16:45:00Z",
+    "word_count": 358
+  },
+  {
+    "id": "NEWS-00010",
+    "source": "financial_times",
+    "headline": "Federal Reserve Cuts Rates for First Time Since 2020 in Quarter-Point Move",
+    "snippet": "The Federal Reserve lowered its benchmark interest rate by a quarter of a percentage point on Wednesday, the first reduction since the early days of the pandemic, as policymakers declared sufficient progress in the battle against inflation to begin unwinding the most aggressive tightening cycle in four decades.",
+    "full_text": "The Federal Reserve lowered its benchmark interest rate by a quarter of a percentage point on Wednesday, the first reduction since the early days of the pandemic, as policymakers declared sufficient progress in the battle against inflation to begin unwinding the most aggressive tightening cycle in four decades. The decision, approved by 11 of 12 voting members of the Federal Open Market Committee, brings the target range for the federal funds rate to 5.00% to 5.25%.\n\nFed Chair Jerome Powell framed the cut as a recalibration of monetary policy rather than a signal of alarm about the economy. 'This decision reflects our growing confidence that, with an appropriate recalibration of our policy stance, strength in the labor market can be maintained in a context of moderate growth and inflation moving sustainably down to 2%,' he told reporters. Powell added that the pace and extent of future cuts would depend entirely on incoming data, carefully avoiding any commitment to a predetermined path.\n\nGovernor Michelle Bowman cast the sole dissenting vote, preferring a smaller, more cautious move. Her dissent was the first by a Fed governor in nearly two decades and underscored the genuine debate within the institution about the appropriate speed of easing. Several regional bank presidents, including San Francisco's Mary Daly, had publicly backed the move in the weeks preceding the meeting, arguing that policy remained unnecessarily restrictive given the progress on inflation.\n\nMarkets rallied sharply on the decision, with the S&P 500 rising 1.2% and the two-year Treasury yield falling 10 basis points to 4.42%. The dollar weakened against major currencies. Investors now expect a total of roughly 100 basis points of additional cuts over the subsequent 12 months, though Powell pointedly declined to endorse that trajectory, saying the Fed is 'not in a hurry' to reach a neutral rate.\n\nThe FRBSF's most recent economic letter, published the prior week, provided additional intellectual underpinning for the move, showing that its preferred real-time inflation tracker had declined to within a half-point of the 2% target when stripping out volatile food and energy components. Economists broadly welcomed the decision, though several cautioned that sticky housing costs and a resilient labor market could limit the scope for deep cuts in 2025.",
+    "author": "Claire Jones",
+    "sentiment": "positive",
+    "sentiment_score": 0.52,
+    "topics": [
+      "fomc_decisions",
+      "interest_rates",
+      "monetary_policy"
+    ],
+    "entities_mentioned": [
+      "Jerome Powell",
+      "Michelle Bowman",
+      "Mary Daly",
+      "Federal Reserve Bank of San Francisco",
+      "Federal Reserve",
+      "FOMC",
+      "Federal Open Market Committee",
+      "S&P 500"
+    ],
+    "risk_flag": true,
+    "risk_description": "Governor Bowman's lone dissent, the first by a Fed governor in nearly 20 years, risks projecting internal division and may embolden critics who argue the Fed is easing prematurely while inflation remains above target. The communication risk is compounded by market expectations running ahead of the Fed's own projections.",
+    "published_date": "2024-09-18T19:30:00Z",
+    "word_count": 402
+  },
+  {
+    "id": "NEWS-00011",
+    "source": "bloomberg",
+    "headline": "Fed's Daly Says Labor Market Resilience Complicates Rate-Cut Timing",
+    "snippet": "San Francisco Federal Reserve President Mary Daly cautioned Thursday that persistent strength in the U.S. labor market means the central bank cannot rush to lower borrowing costs, even as inflation continues its gradual descent toward the 2% target.",
+    "full_text": "San Francisco Federal Reserve President Mary Daly cautioned Thursday that persistent strength in the U.S. labor market means the central bank cannot rush to lower borrowing costs, even as inflation continues its gradual descent toward the 2% target. Speaking at a financial services conference in Los Angeles, Daly said the Fed must remain \"data dependent\" and avoid the mistake of easing policy prematurely.\n\nU.S. nonfarm payrolls added 272,000 jobs in May, significantly above the 185,000 consensus estimate, while the unemployment rate edged up to 4.0%. Daly said the figures underscore a labor market that remains \"remarkably resilient\" despite more than 500 basis points of cumulative tightening since March 2022. \"We are not in a hurry,\" she told attendees. \"The cost of moving too fast is that we undermine the progress we've made on inflation.\"\n\nCore PCE inflation, the Fed's preferred gauge, stood at 2.8% year-over-year as of April, still meaningfully above the 2% objective. Daly noted that while housing services inflation has begun to moderate, the so-called supercore category — services excluding housing and energy — remains sticky, presenting ongoing challenges for policymakers seeking to declare victory on price stability.\n\nMarkets are currently pricing roughly two 25-basis-point rate cuts in 2024, with the first reduction not fully priced until September. Daly declined to endorse that timeline, saying conditions would need to evolve considerably before she could support an initial reduction. The federal funds rate currently sits in a target range of 5.25% to 5.50%, the highest level since 2001.\n\nEconomists at the FRBSF released a companion research note Thursday estimating that the neutral rate of interest — the level that neither stimulates nor restricts growth — may have risen structurally in the post-pandemic era, a finding that could support keeping rates higher for longer. The note attracted attention from bond traders, with the 2-year Treasury yield rising 4 basis points to 4.89% following Daly's remarks.",
+    "author": "Liz Capo McCormick",
+    "sentiment": "neutral",
+    "sentiment_score": -0.1,
+    "topics": [
+      "monetary_policy",
+      "interest_rates",
+      "employment"
+    ],
+    "entities_mentioned": [
+      "Mary Daly",
+      "Federal Reserve Bank of San Francisco",
+      "FOMC",
+      "PCE",
+      "U.S. Treasury"
+    ],
+    "risk_flag": false,
+    "risk_description": null,
+    "published_date": "2024-06-06T14:32:00Z",
+    "word_count": 318
+  },
+  {
+    "id": "NEWS-00012",
+    "source": "wall_street_journal",
+    "headline": "Inside the Fed's Inflation Miscalculation: How 'Transitory' Became a Four-Letter Word",
+    "snippet": "A new post-mortem by Federal Reserve Bank of San Francisco economists acknowledges that the central bank's initial characterization of post-pandemic inflation as temporary contributed to a delayed policy response that allowed price pressures to become entrenched.",
+    "full_text": "A new post-mortem by Federal Reserve Bank of San Francisco economists acknowledges that the central bank's initial characterization of post-pandemic inflation as temporary contributed to a delayed policy response that allowed price pressures to become entrenched. The working paper, released Monday, is among the Fed system's most candid internal assessments of the policy errors that allowed CPI to peak at 9.1% in June 2022.\n\nThe FRBSF researchers, led by senior economist Òscar Jordà, analyzed the relative contributions of supply-chain disruptions, fiscal stimulus, and accommodative monetary policy to the 2021–2022 inflation surge. They found that while global supply shocks were the dominant initial driver, the Fed's failure to begin removing accommodation until March 2022 — more than a year after inflation first breached 3% — meaningfully amplified and prolonged the episode. The paper stopped short of attributing blame to specific officials but noted that communication frameworks centered on average inflation targeting may have created institutional inertia.\n\nThe findings place fresh scrutiny on the period between late 2020 and early 2022, when then-Chair Jerome Powell and other senior officials repeatedly described inflation as \"transitory.\" The word became politically toxic as price pressures persisted, drawing withering criticism from congressional Republicans and eroding public confidence in the institution. Fed Governor Christopher Waller and others have since acknowledged the characterization was a mistake.\n\nCurrent FRBSF President Mary Daly, who was among the officials using transitory language in 2021, issued a statement saying the research reflects the institution's \"commitment to honest self-assessment\" and would inform future policy frameworks. Critics, however, argued the paper understates the degree to which the Fed's own balance sheet expansion — which swelled to nearly $9 trillion — contributed to demand-driven inflation.\n\nThe paper arrives at a sensitive moment, with the Fed still working to fully restore its inflation-fighting credibility. Former Treasury Secretary Lawrence Summers called the paper \"a necessary step\" but said the Fed needed to go further in reforming its communication strategy to prevent similar missteps. The FOMC's next framework review, scheduled for 2025, is expected to revisit average inflation targeting and the role of forward guidance.",
+    "author": "Nick Timiraos",
+    "sentiment": "negative",
+    "sentiment_score": -0.52,
+    "topics": [
+      "monetary_policy",
+      "inflation",
+      "fed_communications"
+    ],
+    "entities_mentioned": [
+      "Federal Reserve Bank of San Francisco",
+      "Òscar Jordà",
+      "Jerome Powell",
+      "Mary Daly",
+      "Christopher Waller",
+      "Lawrence Summers",
+      "FOMC",
+      "CPI"
+    ],
+    "risk_flag": true,
+    "risk_description": "Article directly challenges the Fed's institutional credibility by surfacing an official acknowledgment of policy errors during the transitory inflation episode. Publication could reignite congressional criticism and undermine public trust in the FOMC's current guidance framework.",
+    "published_date": "2023-03-13T10:15:00Z",
+    "word_count": 362
+  },
+  {
+    "id": "NEWS-00013",
+    "source": "reuters",
+    "headline": "Fed Raises Rates by 75 Basis Points for Second Straight Meeting, Signals More Hikes Ahead",
+    "snippet": "The Federal Reserve on Wednesday delivered another jumbo interest rate increase of 75 basis points, bringing the federal funds rate to a range of 2.25% to 2.50%, as policymakers intensified their battle against the fastest inflation in four decades.",
+    "full_text": "The Federal Reserve on Wednesday delivered another jumbo interest rate increase of 75 basis points, bringing the federal funds rate to a range of 2.25% to 2.50%, as policymakers intensified their battle against the fastest inflation in four decades. The unanimous decision matched the size of June's increase, the largest single hike since 1994.\n\nFed Chair Jerome Powell, speaking at a post-meeting press conference, said the committee was \"strongly committed\" to returning inflation to its 2% objective and acknowledged that doing so would require a period of below-trend economic growth. \"We think it's necessary to have growth slow down,\" Powell said, while declining to specify how high rates might ultimately need to rise. He noted that another unusually large increase could be appropriate at the September meeting depending on incoming data.\n\nThe decision was accompanied by updated economic projections, known as the Summary of Economic Projections or \"dot plot,\" which showed the median FOMC participant expected the federal funds rate to reach 3.4% by year-end 2022 and 3.8% in 2023. GDP growth forecasts were revised sharply lower, with the median projection now calling for just 1.7% growth in 2022, down from 2.8% in the March projections. The unemployment rate was seen rising to 4.1% by 2024.\n\nSan Francisco Fed President Mary Daly, a voting member of the FOMC this year, supported the decision. In a statement released through the FRBSF, Daly said the bank was prepared to act \"as forcefully as needed\" to bring inflation down, while emphasizing the importance of not overtightening and triggering an unnecessarily severe economic downturn. Her comments reflected a tension within the committee between hawkish members who wanted to move faster and more dovish officials concerned about recession risk.\n\nFinancial markets rallied sharply following the decision, with the S&P 500 gaining more than 2.6% as investors interpreted Powell's remarks as suggesting the pace of hikes might slow later in the year. The 10-year Treasury yield fell 5 basis points to 2.72%. Economists cautioned that the market reaction may have been premature, noting that core PCE inflation remained well above target and the labor market showed few signs of cooling.",
+    "author": "Ann Saphir",
+    "sentiment": "neutral",
+    "sentiment_score": -0.18,
+    "topics": [
+      "fomc_decisions",
+      "interest_rates",
+      "inflation"
+    ],
+    "entities_mentioned": [
+      "Federal Reserve",
+      "Jerome Powell",
+      "Mary Daly",
+      "FOMC",
+      "Federal Reserve Bank of San Francisco",
+      "S&P 500",
+      "PCE",
+      "Summary of Economic Projections"
+    ],
+    "risk_flag": false,
+    "risk_description": null,
+    "published_date": "2022-07-27T18:45:00Z",
+    "word_count": 355
+  },
+  {
+    "id": "NEWS-00014",
+    "source": "financial_times",
+    "headline": "San Francisco Fed's Bank Supervision Failures Exposed by Silicon Valley Bank Collapse",
+    "snippet": "A blistering review commissioned by the Federal Reserve Board found that supervisors at the Federal Reserve Bank of San Francisco identified significant deficiencies at Silicon Valley Bank years before its failure but failed to escalate concerns or compel corrective action in time to prevent the largest U.S. bank failure since 2008.",
+    "full_text": "A blistering review commissioned by the Federal Reserve Board found that supervisors at the Federal Reserve Bank of San Francisco identified significant deficiencies at Silicon Valley Bank years before its failure but failed to escalate concerns or compel corrective action in time to prevent the largest U.S. bank failure since 2008. The 118-page report, authored by Fed Vice Chair for Supervision Michael Barr, cited a culture of excessive deference to bank management and a supervisory framework weakened by regulatory rollbacks in 2018 and 2019.\n\nThe March 2023 collapse of SVB, which held $209 billion in assets at the time of its failure, sent shockwaves through global financial markets and triggered emergency interventions by U.S. regulators, including the invocation of a systemic risk exception to guarantee all depositor accounts. The FRBSF, as SVB's primary federal supervisor, bore direct responsibility for overseeing the bank's risk management practices — including its catastrophic exposure to interest rate risk on a portfolio of long-duration Treasury and agency mortgage-backed securities.\n\nBarr's review documented that FRBSF examiners had flagged SVB's interest rate risk management as \"less than satisfactory\" as far back as 2021 but that the bank was given repeated extensions to address the matter. The report found that supervisors were reluctant to issue formal enforcement actions, partly due to a cultural shift following the Dodd-Frank Act amendments that reduced capital and liquidity requirements for mid-size banks. Barr called for a significant strengthening of supervisory standards and the reversal of some 2019 tailoring rules.\n\nFRBSF President Mary Daly, whose institution is at the center of the controversy, said she accepted the report's findings and was committed to implementing all recommended changes. \"We must and will do better,\" Daly said in a statement. She announced the creation of an internal task force to review examination procedures and pledged to report back to the Fed Board within 90 days. Congressional Democrats demanded Daly's resignation, while Republicans used the episode to argue against further financial regulation.\n\nThe episode has raised uncomfortable questions about the dual role of Federal Reserve regional banks as both supervisors of financial institutions and advocates for their business communities. Several former Fed officials called for structural changes to separate the supervisory and monetary policy functions more clearly, a step that would require congressional action. The International Monetary Fund noted in a subsequent report that the SVB failure highlighted vulnerabilities in the U.S. regulatory framework for mid-size banks that remained unaddressed.",
+    "author": "Colby Smith",
+    "sentiment": "negative",
+    "sentiment_score": -0.74,
+    "topics": [
+      "banking_regulation",
+      "financial_stability",
+      "monetary_policy"
+    ],
+    "entities_mentioned": [
+      "Federal Reserve Bank of San Francisco",
+      "Michael Barr",
+      "Mary Daly",
+      "Silicon Valley Bank",
+      "Federal Reserve Board",
+      "IMF",
+      "Dodd-Frank Act"
+    ],
+    "risk_flag": true,
+    "risk_description": "Article directly implicates the FRBSF in supervisory failures leading to SVB's collapse. Calls for the FRBSF president's resignation and structural criticism of the Fed's regional bank model pose significant reputational and operational risks. Congressional scrutiny could lead to legislative changes affecting Federal Reserve independence.",
+    "published_date": "2023-04-28T08:00:00Z",
+    "word_count": 418
+  },
+  {
+    "id": "NEWS-00015",
+    "source": "cnbc",
+    "headline": "Fed Holds Rates Steady, Opens Door to Cuts as Inflation Nears Target",
+    "snippet": "The Federal Reserve held its benchmark interest rate unchanged at a 23-year high Wednesday but signaled growing confidence that inflation is on a sustainable path toward 2%, fueling expectations that the first rate cut of the current cycle could come as soon as September.",
+    "full_text": "The Federal Reserve held its benchmark interest rate unchanged at a 23-year high Wednesday but signaled growing confidence that inflation is on a sustainable path toward 2%, fueling expectations that the first rate cut of the current cycle could come as soon as September. The decision to keep the federal funds rate in a range of 5.25% to 5.50% was unanimous, marking the seventh consecutive hold after the last hike in July 2023.\n\nIn a notable shift in language, the post-meeting statement said the committee had gained \"greater confidence\" that inflation was moving sustainably toward the 2% objective, a phrase markets had been watching closely for weeks. Chair Jerome Powell reinforced the message at his press conference, saying \"the question is really about the pace\" of future cuts rather than whether cuts would happen at all. He said the Fed did not need to wait for inflation to reach 2% before beginning to ease policy.\n\nFederal Reserve Bank of San Francisco President Mary Daly, speaking separately with reporters on the sidelines of the meeting, said she saw \"one to two cuts\" as a reasonable baseline for 2024, though she cautioned that the path depended heavily on incoming data. She pointed to cooling wage growth and easing housing inflation as encouraging signs but said the Fed needed \"a few more months of good data\" before acting. Daly is a non-voting member of the FOMC this year but participates fully in deliberations.\n\nUpdated quarterly projections showed the median FOMC participant expected three quarter-point cuts in 2024, unchanged from the March projections, though the number of officials anticipating fewer cuts increased. The so-called dot plot showed a wider-than-usual dispersion of views, with four officials projecting no cuts at all this year. Core PCE inflation was seen ending 2024 at 2.6%, revised slightly higher from the 2.4% projected in March.\n\nEquity markets initially surged on Powell's remarks before paring gains, with the S&P 500 closing up 0.8%. The 2-year Treasury yield fell to 4.69%, its lowest level since early March. Economists at major Wall Street banks, including Goldman Sachs and JPMorgan, maintained their forecasts for a September first cut but acknowledged that stubborn services inflation remained the key risk to that timeline. FRBSF research published earlier in the month had estimated that the disinflation process could stall if productivity growth failed to keep pace with nominal wage gains.",
+    "author": "Steve Liesman",
+    "sentiment": "positive",
+    "sentiment_score": 0.42,
+    "topics": [
+      "fomc_decisions",
+      "interest_rates",
+      "inflation"
+    ],
+    "entities_mentioned": [
+      "Federal Reserve",
+      "Jerome Powell",
+      "Mary Daly",
+      "Federal Reserve Bank of San Francisco",
+      "FOMC",
+      "PCE",
+      "Goldman Sachs",
+      "JPMorgan",
+      "S&P 500"
+    ],
+    "risk_flag": false,
+    "risk_description": null,
+    "published_date": "2024-06-12T19:20:00Z",
+    "word_count": 387
+  },
+  {
+    "id": "NEWS-00016",
+    "source": "bloomberg",
+    "headline": "Fed's Daly Says Labor Market Resilience Complicates Rate-Cut Timeline",
+    "snippet": "San Francisco Federal Reserve President Mary Daly cautioned Friday that robust jobs data may delay the central bank's pivot to rate cuts, signaling patience is warranted even as inflation trends lower. Her remarks pushed short-term Treasury yields higher as traders trimmed bets on an early 2024 easing cycle.",
+    "full_text": "San Francisco Federal Reserve President Mary Daly said Friday that the strength of the U.S. labor market gives policymakers room to hold interest rates at restrictive levels longer than markets currently anticipate, reinforcing a message of patience that Chair Jerome Powell has also emphasized in recent weeks.\n\nDaly, speaking at a financial services conference in Los Angeles, noted that nonfarm payrolls have consistently beaten expectations and that wage growth, while moderating, remains above levels consistent with the Fed's 2% inflation target over the medium term. 'When the labor market is this strong, we have the luxury of being methodical,' she said. 'Cutting too soon risks undoing the progress we've made.'\n\nThe remarks follow November's jobs report showing 199,000 positions added and unemployment slipping to 3.7%, data that complicated the narrative of a cooling economy that would justify earlier Fed easing. Fed funds futures shifted after Daly's comments, with markets now pricing roughly 115 basis points of cuts through 2024, down from more than 130 basis points earlier in the session.\n\nDaly stressed that the FOMC's decision-making would remain data-dependent and that she would not prejudge outcomes ahead of the December meeting. She noted that core PCE inflation, the Fed's preferred gauge, had declined meaningfully but still sat above 3%, leaving meaningful work ahead. 'Two percent is the goal, not a suggestion,' she said, drawing light laughter from the audience.\n\nEconomists at Barclays and JPMorgan revised their Fed call timelines following the speech, with both now forecasting the first rate cut no earlier than May 2024. The 2-year Treasury yield rose 7 basis points to 4.68% on the session, while the S&P 500 trimmed earlier gains to close up just 0.2%.",
+    "author": "Craig Torres",
+    "sentiment": "neutral",
+    "sentiment_score": -0.12,
+    "topics": [
+      "monetary_policy",
+      "interest_rates",
+      "employment"
+    ],
+    "entities_mentioned": [
+      "Mary Daly",
+      "Federal Reserve Bank of San Francisco",
+      "Jerome Powell",
+      "FOMC",
+      "Barclays",
+      "JPMorgan",
+      "U.S. Treasury",
+      "S&P 500"
+    ],
+    "risk_flag": false,
+    "risk_description": null,
+    "published_date": "2023-12-08T17:45:00Z",
+    "word_count": 298
+  },
+  {
+    "id": "NEWS-00017",
+    "source": "wall_street_journal",
+    "headline": "Fed Officials Split on Whether Inflation Fight Is Truly Won",
+    "snippet": "A growing divide among Federal Reserve policymakers over the persistence of services inflation is complicating the central bank's effort to communicate a unified message ahead of its next meeting. Hawks and doves within the FOMC are sending conflicting signals that risk unsettling financial markets and undermining the Fed's credibility.",
+    "full_text": "Federal Reserve officials are sending increasingly divergent signals about the inflation outlook, exposing a rift that could undermine the central bank's carefully managed communications strategy and rattle investor confidence in its policy path.\n\nOn one side, San Francisco Fed President Mary Daly and Governor Christopher Waller have recently argued that the disinflation process is well underway and that the Fed should consider rate cuts in the near future to avoid overtightening into a recession. On the other, Cleveland Fed President Loretta Mester and Governor Michelle Bowman have warned that inflation remains sticky in shelter and services categories, suggesting the current federal funds rate target of 5.25%-5.50% may need to be held well into 2025.\n\nThe public disagreement is unusual for a central bank that typically coordinates messaging carefully before policy decisions. Former Fed Vice Chair Donald Kohn noted in an interview that the degree of public disagreement 'adds noise to the signal' and could cause unnecessary volatility in bond markets at a sensitive juncture. 'When officials speak in contradictory terms within the same week, it becomes very hard for households and businesses to make informed decisions,' he said.\n\nThe divide crystallized last week when Waller explicitly called for rate cuts if inflation continued its downward trajectory, only for Bowman to respond days later warning against premature easing. Fed Chair Jerome Powell's upcoming congressional testimony is expected to be watched closely for any attempt to reconcile the competing narratives.\n\nMarket strategists at Goldman Sachs say the internal disagreement may actually be healthy, reflecting genuine uncertainty about an unpredictable economic environment. But analysts at PIMCO warned that the Fed risks losing its anchor to market expectations if officials continue to speak at cross-purposes. The yield on the 10-year Treasury note has swung in an unusually wide range over the past two weeks, a sign investors are struggling to form a stable view of the rate outlook.",
+    "author": "Nick Timiraos",
+    "sentiment": "negative",
+    "sentiment_score": -0.45,
+    "topics": [
+      "monetary_policy",
+      "fed_communications",
+      "fomc_decisions"
+    ],
+    "entities_mentioned": [
+      "Mary Daly",
+      "Christopher Waller",
+      "Loretta Mester",
+      "Michelle Bowman",
+      "Jerome Powell",
+      "Donald Kohn",
+      "FOMC",
+      "Federal Reserve Bank of San Francisco",
+      "Goldman Sachs",
+      "PIMCO",
+      "U.S. Treasury"
+    ],
+    "risk_flag": true,
+    "risk_description": "Contradictory public statements from multiple Fed officials within the same week risk destabilizing market expectations and eroding the Fed's communications credibility at a critical policy juncture.",
+    "published_date": "2024-02-14T13:00:00Z",
+    "word_count": 342
+  },
+  {
+    "id": "NEWS-00018",
+    "source": "reuters",
+    "headline": "San Francisco Fed Research Points to Easing Supply Chain Pressures as Key Inflation Driver",
+    "snippet": "New research published by the Federal Reserve Bank of San Francisco on Monday finds that the normalization of global supply chains has been responsible for more than half the decline in goods inflation since its 2022 peak. The findings offer analytical support for the view that inflation may continue to ease without requiring additional interest rate increases.",
+    "full_text": "The Federal Reserve Bank of San Francisco released new research Monday indicating that supply chain normalization accounts for a substantial share of the reduction in goods inflation since its mid-2022 peak, providing empirical backing for policymakers who argue that the current level of interest rates may be sufficient to return inflation to the central bank's 2% target.\n\nThe paper, authored by FRBSF economists Sylvain Leduc and Daniel Wilson, finds that disruptions in global shipping, semiconductor shortages, and pandemic-era production bottlenecks collectively added roughly 2.5 percentage points to core goods inflation at their height. As those pressures have reversed, they have contributed about 1.4 percentage points of disinflationary force since late 2022, the research shows.\n\n'The supply-side story is a meaningful part of why inflation has come down as quickly as it has,' said Leduc in an interview. 'That doesn't mean the Fed's rate increases haven't mattered — they have — but it does suggest that the disinflationary process has tailwinds that don't require further policy tightening to sustain.'\n\nThe research comes as the FOMC deliberates over whether its current federal funds rate target of 5.25%-5.50% is sufficiently restrictive and how long it should be maintained. Fed officials, including San Francisco Fed President Mary Daly, have cited supply-side healing as a factor in their assessment of the inflation trajectory.\n\nSome economists cautioned against over-interpreting the findings. 'Supply chains tell you a lot about goods inflation, but services inflation has its own dynamics tied to wage growth and housing costs,' said Blerina Uruci, chief U.S. economist at T. Rowe Price. 'The Fed can't rely solely on supply normalization to finish the job.' The FRBSF's Global Supply Chain Pressure Index has returned to near pre-pandemic levels, corroborating the paper's conclusions.",
+    "author": "Howard Schneider",
+    "sentiment": "positive",
+    "sentiment_score": 0.38,
+    "topics": [
+      "inflation",
+      "monetary_policy",
+      "economic_indicators"
+    ],
+    "entities_mentioned": [
+      "Federal Reserve Bank of San Francisco",
+      "Sylvain Leduc",
+      "Daniel Wilson",
+      "Mary Daly",
+      "FOMC",
+      "T. Rowe Price",
+      "Blerina Uruci",
+      "Global Supply Chain Pressure Index"
+    ],
+    "risk_flag": false,
+    "risk_description": null,
+    "published_date": "2023-09-11T14:00:00Z",
+    "word_count": 308
+  },
+  {
+    "id": "NEWS-00019",
+    "source": "cnbc",
+    "headline": "Fed Delivers Half-Point Rate Hike, Signals More Increases Ahead as Inflation Surges",
+    "snippet": "The Federal Reserve raised its benchmark interest rate by 50 basis points on Wednesday, the largest single increase since 2000, and signaled that additional hikes are coming as inflation running near 40-year highs forces the central bank into its most aggressive tightening cycle in decades. Fed Chair Jerome Powell said the committee is committed to restoring price stability.",
+    "full_text": "The Federal Reserve on Wednesday raised its benchmark interest rate by half a percentage point, its biggest move since May 2000, and laid out an aggressive path of further increases aimed at bringing inflation running at nearly 8% back under control, even at the risk of slowing economic growth.\n\nThe Federal Open Market Committee voted unanimously to raise the target range for the federal funds rate to 0.75%-1.00%, and Chair Jerome Powell said at a press conference that additional 50-basis-point increases are 'on the table' for the June and July meetings. The Fed also confirmed it would begin shrinking its $9 trillion balance sheet starting June 1, reducing holdings of Treasuries and mortgage-backed securities at an initial combined pace of $47.5 billion per month.\n\nPowell sought to project confidence that the Fed could engineer a so-called soft landing, bringing down inflation without triggering a recession. 'We have a good chance to restore price stability without a significant increase in unemployment,' he said, though he acknowledged the path was 'going to be challenging.' Markets initially surged on his comments before reversing sharply, with the Dow Jones Industrial Average falling more than 1,000 points on Thursday.\n\nSan Francisco Fed President Mary Daly, one of the more moderate voices on the FOMC, had in recent weeks signaled support for a series of 50-basis-point moves, marking a notable shift from her previous stance. 'Inflation at these levels is a tax on working families and small businesses,' Daly said in remarks earlier in the week. 'Restoring price stability is the most important thing we can do for long-term economic health.'\n\nEconomists widely expect the Fed to push rates to at least 3% by year-end, with some forecasting the terminal rate could reach 3.5% or higher if inflation proves more persistent than anticipated. The yield on the 2-year Treasury note, highly sensitive to rate expectations, hit 2.73%, its highest level since January 2019, reflecting the dramatic repricing of the rate outlook over just a few months.",
+    "author": "Steve Liesman",
+    "sentiment": "negative",
+    "sentiment_score": -0.52,
+    "topics": [
+      "fomc_decisions",
+      "interest_rates",
+      "inflation"
+    ],
+    "entities_mentioned": [
+      "Jerome Powell",
+      "Federal Reserve",
+      "FOMC",
+      "Mary Daly",
+      "Federal Reserve Bank of San Francisco",
+      "Dow Jones Industrial Average",
+      "U.S. Treasury"
+    ],
+    "risk_flag": true,
+    "risk_description": "Aggressive rate hike path and balance sheet reduction announced simultaneously risk public backlash and heightened recession fears, particularly as the stock market's sharp reversal following Powell's press conference suggests markets may be pricing in a policy error.",
+    "published_date": "2022-05-04T20:30:00Z",
+    "word_count": 352
+  },
+  {
+    "id": "NEWS-00020",
+    "source": "financial_times",
+    "headline": "FRBSF Upgrades Stress Testing Framework for Regional Banks After SVB Collapse",
+    "snippet": "The Federal Reserve Bank of San Francisco is overhauling its supervisory approach to mid-sized lenders following intense scrutiny over its oversight of Silicon Valley Bank, whose failure last March triggered the most acute banking stress since the 2008 financial crisis. The changes include more rigorous interest rate risk assessments and faster escalation of supervisory concerns.",
+    "full_text": "The Federal Reserve Bank of San Francisco has unveiled a comprehensive revamp of its bank supervision practices, responding to a scathing internal Federal Reserve review that found examiners had identified risks at Silicon Valley Bank well before its collapse but failed to act with sufficient urgency or force.\n\nThe new framework, detailed in a letter to supervised institutions published Thursday, significantly expands the scope and frequency of interest rate risk examinations for banks with assets between $10 billion and $250 billion. It also establishes clearer escalation protocols requiring examiners to elevate concerns to senior supervisory staff within defined timeframes, addressing a key failure identified in the Michael Barr-led review released in April 2023.\n\nSan Francisco Fed President Mary Daly, who faced considerable criticism over the FRBSF's handling of SVB, said the new measures reflected hard lessons learned. 'We have to be unflinching in our self-assessment and in our willingness to act when we identify problems,' she told reporters on a call. 'The framework we had was not adequate for the environment we found ourselves in, and we've addressed that directly.' Daly has previously acknowledged that supervisory resources did not keep pace with SVB's rapid growth.\n\nThe revamp includes provisions for more intrusive examination of banks experiencing rapid balance sheet expansion or significant concentrations in particular depositor types or asset classes — two characteristics that made SVB uniquely vulnerable to the bank run that forced its closure in March 2023. It also adopts recommendations from the Basel Committee on Banking Supervision regarding liquidity risk management for banks with large volumes of uninsured deposits.\n\nSome industry groups expressed concern that the enhanced scrutiny could increase compliance burdens for community and mid-tier banks that present little systemic risk. The Bank Policy Institute said in a statement that the Fed should 'calibrate supervision proportionately' rather than applying SVB-specific lessons broadly. Consumer advocacy groups, however, praised the changes as long overdue, noting that the SVB failure had eroded public confidence in the safety of the banking system.",
+    "author": "Colby Smith",
+    "sentiment": "neutral",
+    "sentiment_score": 0.05,
+    "topics": [
+      "banking_regulation",
+      "financial_stability",
+      "fed_communications"
+    ],
+    "entities_mentioned": [
+      "Federal Reserve Bank of San Francisco",
+      "Mary Daly",
+      "Silicon Valley Bank",
+      "Michael Barr",
+      "Federal Reserve",
+      "Basel Committee on Banking Supervision",
+      "Bank Policy Institute"
+    ],
+    "risk_flag": true,
+    "risk_description": "FRBSF's public acknowledgment that its prior supervisory framework was inadequate may invite further congressional and public scrutiny of the institution's oversight failures, and broad application of new rules could generate significant pushback from the banking industry.",
+    "published_date": "2023-11-02T10:00:00Z",
+    "word_count": 368
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "id": "RT-00001",
+    "inquiry_category": "monetary_policy",
+    "inquiry_example": "A member of the public asks why the Federal Reserve raised interest rates and how it will affect their mortgage.",
+    "template_subject": "Re: Your Inquiry Regarding Federal Reserve Monetary Policy — Reference {{reference_number}}",
+    "template_body": "Dear {{sender_name}},\n\nThank you for contacting the Federal Reserve Bank of San Francisco regarding your inquiry received on {{inquiry_date}}. We appreciate your engagement with the Federal Reserve System and welcome the opportunity to provide information about our monetary policy framework.\n\nThe Federal Reserve's dual mandate, as established by Congress, directs us to promote maximum employment and stable prices for the American people. Decisions regarding the federal funds rate target are made by the Federal Open Market Committee (FOMC) based on a thorough assessment of current economic conditions, including inflation trends, labor market data, and broader financial developments. These decisions are communicated through official FOMC statements, meeting minutes, and the Chair's press conferences, all of which are publicly available at federalreserve.gov. We are unable to provide commentary on or characterization of future policy actions beyond what has been disclosed in official FOMC communications.\n\nRegarding the effect of monetary policy on consumer borrowing costs, including mortgage rates, we recognize that changes in the federal funds rate can influence a wide range of interest rates across the economy. The Federal Reserve provides extensive educational resources to help the public understand these relationships. We encourage you to visit the San Francisco Fed's website at frbsf.org, where you will find research publications, economic letters, and explainer content on topics including {{specific_topic}}. Additionally, the Board of Governors' Consumer Information page at federalreserve.gov/consumerscommunities offers tools and guidance relevant to personal financial decisions.\n\nShould you have further questions or require additional information, please do not hesitate to contact our Public Affairs office. We value public engagement and remain committed to transparency in all aspects of our mission. Thank you again for reaching out to the Federal Reserve Bank of San Francisco.",
+    "tone": "informational",
+    "placeholders": [
+      "{{sender_name}}",
+      "{{inquiry_date}}",
+      "{{reference_number}}",
+      "{{specific_topic}}"
+    ],
+    "approval_status": "approved",
+    "last_updated": "2024-03-15T09:00:00Z",
+    "usage_count": 412,
+    "category_tags": [
+      "monetary_policy",
+      "FOMC",
+      "interest_rates",
+      "dual_mandate",
+      "public_education",
+      "federal_funds_rate"
+    ],
+    "target_audience": "public"
+  },
+  {
+    "id": "RT-00002",
+    "inquiry_category": "media_request",
+    "inquiry_example": "A journalist from a major financial news outlet requests an interview with the FRBSF President regarding current inflation trends and the Fed's outlook.",
+    "template_subject": "Federal Reserve Bank of San Francisco — Response to Media Inquiry Ref: {{reference_number}}",
+    "template_body": "Dear {{sender_name}},\n\nThank you for reaching out to the Federal Reserve Bank of San Francisco Communications and Media Relations office. We have received your media inquiry dated {{inquiry_date}} and are pleased to respond on behalf of the Bank.\n\nRegarding your request concerning {{specific_topic}}, we want to ensure that all information provided to members of the press is accurate, timely, and consistent with official Federal Reserve communications. Our policy is to direct media inquiries to publicly available statements, speeches, testimonies, and research publications issued through official Federal Reserve channels. Official remarks from FRBSF leadership are available at frbsf.org/news-and-media, and all FOMC statements and supporting materials are accessible via the Board of Governors' website at federalreserve.gov. We are not in a position to offer commentary or characterization of policy positions beyond what has been formally disclosed in these materials.\n\nYour request for an interview or on-record statement has been forwarded to {{contact_person}} in our Media Relations office for review and appropriate follow-up. Please note that interview availability for senior FRBSF officials is subject to scheduling constraints and internal review processes. We aim to respond to all media requests within two business days. In the interim, you may find the following publication directly relevant to your inquiry: {{relevant_publication}}, which is available on our website.\n\nWe appreciate your interest in the work of the Federal Reserve Bank of San Francisco and remain committed to supporting informed public discourse on economic and monetary policy matters. Please feel free to contact our Media Relations office directly at mediarelations@sf.frb.org should you require immediate assistance or have additional questions.",
+    "tone": "formal",
+    "placeholders": [
+      "{{sender_name}}",
+      "{{inquiry_date}}",
+      "{{reference_number}}",
+      "{{specific_topic}}",
+      "{{contact_person}}",
+      "{{relevant_publication}}"
+    ],
+    "approval_status": "approved",
+    "last_updated": "2024-07-22T14:30:00Z",
+    "usage_count": 289,
+    "category_tags": [
+      "media_relations",
+      "press_inquiry",
+      "interview_request",
+      "communications",
+      "talking_points",
+      "inflation",
+      "monetary_policy"
+    ],
+    "target_audience": "media"
+  },
+  {
+    "id": "RT-00003",
+    "inquiry_category": "foia_request",
+    "inquiry_example": "An individual submits a Freedom of Information Act request seeking internal communications related to a specific supervisory examination or policy deliberation.",
+    "template_subject": "Acknowledgment of Freedom of Information Act Request — FOIA Tracking No. {{reference_number}}",
+    "template_body": "Dear {{sender_name}},\n\nThis letter serves as formal acknowledgment that the Federal Reserve Bank of San Francisco has received your Freedom of Information Act (FOIA) request dated {{inquiry_date}}. Your request has been assigned tracking number {{reference_number}} and has been forwarded to the appropriate office for processing in accordance with applicable federal law and Federal Reserve System FOIA policies.\n\nPlease be advised that the Federal Reserve Bank of San Francisco, as a Federal Reserve Bank, is subject to the provisions of the Freedom of Information Act (5 U.S.C. § 552) as interpreted and applied within the Federal Reserve System. Your request will be reviewed to determine whether responsive records exist, whether any exemptions under FOIA apply, and what information may be disclosed consistent with legal obligations. Specifically, your request pertaining to {{specific_topic}} will be evaluated against applicable FOIA exemptions, including but not limited to Exemptions 4, 5, 6, and 8, which protect confidential commercial information, deliberative process materials, personal privacy, and information related to the examination of financial institutions, respectively.\n\nUnder standard FOIA processing procedures, we are required to respond to your request within twenty (20) business days of receipt, absent unusual circumstances. Should we require additional time to process your request due to the volume or complexity of responsive records, we will notify you in writing and provide an estimated completion date. You may also be entitled to an expedited processing determination or a fee waiver depending on your stated purpose and requester category, as further outlined in the Federal Reserve's FOIA guidelines available at federalreserve.gov/foia.\n\nFor questions regarding the status of your request, please contact {{contact_person}} in our Legal Division, referencing tracking number {{reference_number}}. A copy of the Federal Reserve's FOIA regulations and fee schedule is available upon request. The Federal Reserve Bank of San Francisco is committed to transparency and to fulfilling its obligations under federal disclosure law.",
+    "tone": "formal",
+    "placeholders": [
+      "{{sender_name}}",
+      "{{inquiry_date}}",
+      "{{reference_number}}",
+      "{{specific_topic}}",
+      "{{contact_person}}"
+    ],
+    "approval_status": "approved",
+    "last_updated": "2023-11-08T10:15:00Z",
+    "usage_count": 174,
+    "category_tags": [
+      "FOIA",
+      "freedom_of_information",
+      "legal",
+      "disclosure",
+      "transparency",
+      "records_request",
+      "compliance"
+    ],
+    "target_audience": "general"
+  },
+  {
+    "id": "RT-00004",
+    "inquiry_category": "congressional_inquiry",
+    "inquiry_example": "A U.S. Senator's office submits a formal inquiry requesting information about the Federal Reserve's supervisory actions related to regional bank stability and consumer protection compliance.",
+    "template_subject": "Federal Reserve Bank of San Francisco — Response to Congressional Inquiry Ref: {{reference_number}}",
+    "template_body": "Dear {{sender_name}},\n\nThe Federal Reserve Bank of San Francisco acknowledges receipt of your correspondence dated {{inquiry_date}}, submitted on behalf of {{contact_person}}, regarding {{specific_topic}}. We appreciate the opportunity to address the concerns and questions raised and remain committed to full and transparent cooperation with Congress in furtherance of our shared public responsibilities.\n\nThe Federal Reserve Bank of San Francisco conducts its supervisory and regulatory activities pursuant to authority granted by Congress and in accordance with guidelines established by the Board of Governors of the Federal Reserve System. In carrying out these responsibilities, the Bank adheres to established examination standards, applicable statutes, and implementing regulations designed to promote safety and soundness, consumer protection, and the stability of the broader financial system. We are committed to providing Congress with information necessary to fulfill its oversight role, while also ensuring that the confidentiality protections afforded to examination-related information under applicable law, including 12 U.S.C. § 1820(k) and related provisions, are appropriately maintained.\n\nWith respect to the specific matters raised in your inquiry concerning {{specific_topic}}, we are coordinating internally to compile a comprehensive and accurate response. Where applicable, we will reference relevant Federal Reserve Board reports, supervisory guidance documents, and publicly available data. Please note that certain supervisory and examination information is protected from disclosure under federal statute; however, we will make every effort to be as forthcoming as possible within the boundaries of applicable law. The relevant publication {{relevant_publication}} may also provide useful context and has been enclosed for reference.\n\nWe anticipate providing a substantive written response within fifteen (15) business days. Should the timeline need to be adjusted due to the complexity of the inquiry, a member of our Congressional Affairs and Government Relations office will contact your office promptly to provide an updated estimate. We welcome the opportunity for further dialogue and remain available to brief staff at your convenience. Please direct any follow-up questions to {{contact_person}} in our External Affairs division.",
+    "tone": "formal",
+    "placeholders": [
+      "{{sender_name}}",
+      "{{inquiry_date}}",
+      "{{reference_number}}",
+      "{{specific_topic}}",
+      "{{contact_person}}",
+      "{{relevant_publication}}"
+    ],
+    "approval_status": "approved",
+    "last_updated": "2024-01-30T08:45:00Z",
+    "usage_count": 97,
+    "category_tags": [
+      "congressional_inquiry",
+      "oversight",
+      "supervisory",
+      "government_relations",
+      "banking_regulation",
+      "consumer_protection",
+      "financial_stability"
+    ],
+    "target_audience": "congressional"
+  },
+  {
+    "id": "RT-00005",
+    "inquiry_category": "employment",
+    "inquiry_example": "A community organization leader writes to the FRBSF expressing concern about rising unemployment in their region and asking what the Federal Reserve is doing to support job creation.",
+    "template_subject": "Re: Your Inquiry on Employment and the Federal Reserve's Economic Mission — Ref: {{reference_number}}",
+    "template_body": "Dear {{sender_name}},\n\nThank you for writing to the Federal Reserve Bank of San Francisco and for sharing the concerns of your community regarding employment conditions in your region. We received your correspondence on {{inquiry_date}} and want you to know that the economic well-being of all communities within our District is of great importance to us. We appreciate your advocacy on behalf of those affected by labor market challenges.\n\nMaximum employment is one of the two primary objectives — alongside stable prices — that Congress has assigned to the Federal Reserve, commonly known as the dual mandate. In pursuit of this mandate, the FOMC evaluates a broad range of labor market indicators, including the national unemployment rate, labor force participation, wage growth, and measures of underemployment, to assess whether conditions are consistent with maximum employment. It is important to note that the Federal Reserve's policy tools operate primarily at the macroeconomic level and are not designed to target employment outcomes in specific geographic regions or industry sectors. Nonetheless, the health of local and regional labor markets informs the broader economic analysis that guides policy deliberations. We are unable to comment on the likely future course of monetary policy or anticipated changes to policy settings.\n\nThe Federal Reserve Bank of San Francisco is also engaged in community development research and outreach efforts aimed at understanding and addressing economic disparities across our District, which encompasses the Twelfth Federal Reserve District including California, Oregon, Washington, Nevada, Arizona, Idaho, Utah, Alaska, and Hawaii, as well as the Pacific territories. Our Community Development office publishes research and convenes stakeholders on issues related to workforce development, economic mobility, and access to credit. We encourage you to explore these resources at frbsf.org/community-development and to review {{relevant_publication}}, which addresses {{specific_topic}} in greater depth.\n\nWe value your engagement and the perspective you bring as a community leader. If you would like to connect with a member of our Community Development or Outreach team to discuss regional economic conditions further, please contact {{contact_person}} at the Federal Reserve Bank of San Francisco. We are committed to listening, learning, and supporting the economic vitality of all communities in our District.",
+    "tone": "empathetic",
+    "placeholders": [
+      "{{sender_name}}",
+      "{{inquiry_date}}",
+      "{{reference_number}}",
+      "{{specific_topic}}",
+      "{{contact_person}}",
+      "{{relevant_publication}}"
+    ],
+    "approval_status": "approved",
+    "last_updated": "2023-06-12T11:00:00Z",
+    "usage_count": 203,
+    "category_tags": [
+      "employment",
+      "dual_mandate",
+      "community_development",
+      "labor_market",
+      "outreach",
+      "economic_equity",
+      "twelfth_district"
+    ],
+    "target_audience": "stakeholder"
+  }
+]

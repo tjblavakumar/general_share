@@ -1,0 +1,403 @@
+[
+  {
+    "id": "SM-00001",
+    "platform": "twitter",
+    "author_type": "journalist",
+    "author_handle": "@EconReporterNYC",
+    "text": "BREAKING: Fed raises rates by 75bps for the 4th consecutive time. Powell signals more hikes ahead as inflation remains well above 2% target. Markets tumbling. #FederalReserve #FOMC #RateHike",
+    "sentiment": "neutral",
+    "sentiment_score": -0.05,
+    "topic": "fed_rate_decision",
+    "engagement_score": 4820,
+    "reply_count": 312,
+    "repost_count": 1890,
+    "timestamp": "2022-11-02T18:05:00Z",
+    "hashtags": [
+      "FederalReserve",
+      "FOMC",
+      "RateHike"
+    ]
+  },
+  {
+    "id": "SM-00002",
+    "platform": "reddit",
+    "author_type": "financial_analyst",
+    "author_handle": "BondMktWatcher_88",
+    "text": "r/economics — Deep dive on the FRBSF's latest economic letter on wage growth and core PCE stickiness. What's fascinating here is that Daly's team at the San Francisco Fed is flagging that shelter inflation is going to remain elevated well into 2024, even as goods disinflation accelerates. The supercore metric (services ex-housing) is the one I'm watching most closely. The Fed's dot plot suggests terminal rate around 5.1%, but if supercore stays hot, we could see upward revisions at the March SEP. The market is pricing in cuts far too aggressively IMO. Anyone else reading the FRBSF FedViews and seeing similar signals? Would love to discuss the implications for the long end of the curve.",
+    "sentiment": "negative",
+    "sentiment_score": -0.42,
+    "topic": "inflation_data",
+    "engagement_score": 1340,
+    "reply_count": 89,
+    "repost_count": 47,
+    "timestamp": "2023-01-18T14:22:00Z",
+    "hashtags": [
+      "inflation",
+      "FRBSF",
+      "monetarypolicy",
+      "PCE"
+    ]
+  },
+  {
+    "id": "SM-00003",
+    "platform": "linkedin",
+    "author_type": "economist",
+    "author_handle": "Dr. Priya Sundaram",
+    "text": "The Federal Reserve Bank of San Francisco's recent research on labor market tightness offers a compelling framework for understanding today's wage-price dynamics. President Mary Daly's public statements have consistently emphasized a 'data-dependent' approach, which stands in stark contrast to the more rules-based frameworks we saw under previous Fed leadership cycles.\n\nWhat's particularly noteworthy is the FRBSF's contribution to the Fed's understanding of regional labor supply constraints — their economists have published extensively on how pandemic-era early retirements have structurally reduced prime-age labor force participation, creating persistent upward wage pressure even as headline job gains moderate.\n\nFor practitioners and policymakers alike, the key takeaway is that the neutral rate may have shifted higher than pre-pandemic estimates. This has profound implications for portfolio construction, corporate financing costs, and long-run fiscal sustainability. The debate around r* is no longer purely academic — it is the most consequential variable in global finance right now.",
+    "sentiment": "neutral",
+    "sentiment_score": 0.08,
+    "topic": "economic_forecast",
+    "engagement_score": 2105,
+    "reply_count": 63,
+    "repost_count": 412,
+    "timestamp": "2023-06-14T09:45:00Z",
+    "hashtags": [
+      "FederalReserve",
+      "FRBSF",
+      "MonetaryPolicy",
+      "Economics",
+      "LaborMarket"
+    ]
+  },
+  {
+    "id": "SM-00004",
+    "platform": "twitter",
+    "author_type": "public",
+    "author_handle": "@JustTryingToSaveHere",
+    "text": "My mortgage rate went from 3.1% to 7.4% because the Fed keeps hiking. I can't afford to buy a home anymore. Thanks Jerome Powell 🙃 #FedRateHike #HousingCrisis #CantAffordAHome",
+    "sentiment": "negative",
+    "sentiment_score": -0.81,
+    "topic": "fed_rate_decision",
+    "engagement_score": 18700,
+    "reply_count": 943,
+    "repost_count": 6200,
+    "timestamp": "2023-03-22T20:14:00Z",
+    "hashtags": [
+      "FedRateHike",
+      "HousingCrisis",
+      "CantAffordAHome"
+    ]
+  },
+  {
+    "id": "SM-00005",
+    "platform": "reddit",
+    "author_type": "policy_commentator",
+    "author_handle": "FedWatcher_PolicyNerd",
+    "text": "r/finance — Can we talk about how well the Fed has actually navigated this tightening cycle? I know it's fashionable to bash Powell, but let's look at the data: unemployment remains below 4%, GDP is still growing, and headline CPI has come down from 9.1% to under 4% without a technical recession. That is, historically speaking, an extraordinary outcome. The soft landing narrative is looking more credible by the month. The FRBSF in particular has put out some excellent research arguing that pandemic-era distortions overstated underlying inflation, which gave the FOMC cover to be methodical rather than panicked. I'm not saying the Fed is perfect — the 2021 'transitory' call was a clear miss — but credit where it's due. The alternative (letting inflation become entrenched) would have been far worse. Thoughts?",
+    "sentiment": "positive",
+    "sentiment_score": 0.65,
+    "topic": "fomc_meeting",
+    "engagement_score": 3210,
+    "reply_count": 178,
+    "repost_count": 92,
+    "timestamp": "2023-07-28T16:38:00Z",
+    "hashtags": [
+      "FederalReserve",
+      "softlanding",
+      "inflation",
+      "FOMC"
+    ]
+  },
+  {
+    "id": "SM-00006",
+    "platform": "twitter",
+    "author_type": "financial_analyst",
+    "author_handle": "@RatesStrategistMV",
+    "text": "FRBSF's FedViews just dropped. Key takeaway: their staff sees core PCE ending 2024 at 2.5%, unemployment ticking to 4.3%. Treasury 2s10s steepening thesis intact. Watch the long end. #Treasuries #YieldCurve #FRBSF #FixedIncome",
+    "sentiment": "neutral",
+    "sentiment_score": 0.02,
+    "topic": "treasury_yields",
+    "engagement_score": 2340,
+    "reply_count": 156,
+    "repost_count": 789,
+    "timestamp": "2024-02-08T12:30:00Z",
+    "hashtags": [
+      "Treasuries",
+      "YieldCurve",
+      "FRBSF",
+      "FixedIncome"
+    ]
+  },
+  {
+    "id": "SM-00007",
+    "platform": "linkedin",
+    "author_type": "journalist",
+    "author_handle": "Sarah Whitmore, Financial Correspondent",
+    "text": "Fed Chair Powell's speech at the Jackson Hole Economic Symposium sent a clear and deliberate message to markets: the Federal Reserve is committed to restoring price stability, and the bank is prepared to hold rates higher for longer if necessary.\n\nSpeaking for approximately 1,300 words — unusually brief by historical standards — Powell's remarks were notable for what they omitted as much as what they included. There was no pivot language, no acknowledgment of easing financial conditions, and a pointed reminder that the 1970s experience of prematurely declaring victory over inflation remains a cautionary tale for modern central bankers.\n\nThe Federal Reserve Bank of San Francisco, led by President Mary Daly, has been one of the more vocal districts in supporting the current policy stance. Daly's recent interviews have reinforced the 'higher for longer' message, citing continued strength in services inflation as justification for restraint on rate cuts.\n\nMarkets sold off sharply in afternoon trading following the speech, with the S&P 500 falling 2.4% and 2-year Treasury yields rising to their highest level since 2007.",
+    "sentiment": "negative",
+    "sentiment_score": -0.28,
+    "topic": "fed_chair_speech",
+    "engagement_score": 4890,
+    "reply_count": 201,
+    "repost_count": 1340,
+    "timestamp": "2023-08-25T15:00:00Z",
+    "hashtags": [
+      "JacksonHole",
+      "FederalReserve",
+      "Powell",
+      "MonetaryPolicy",
+      "InterestRates"
+    ]
+  },
+  {
+    "id": "SM-00008",
+    "platform": "twitter",
+    "author_type": "economist",
+    "author_handle": "@Prof_MacroThinks",
+    "text": "Interesting FRBSF working paper out today on QT and reserve scarcity. Authors find the balance sheet runoff is equivalent to roughly 25-50bps of additional tightening. Meaningful, but markets still underpricing QT risk IMO. #QuantitativeTightening #Fed #MacroEcon",
+    "sentiment": "negative",
+    "sentiment_score": -0.31,
+    "topic": "quantitative_tightening",
+    "engagement_score": 1678,
+    "reply_count": 94,
+    "repost_count": 543,
+    "timestamp": "2023-09-12T10:17:00Z",
+    "hashtags": [
+      "QuantitativeTightening",
+      "Fed",
+      "MacroEcon"
+    ]
+  },
+  {
+    "id": "SM-00009",
+    "platform": "linkedin",
+    "author_type": "policy_commentator",
+    "author_handle": "Marcus Bellingham",
+    "text": "The FOMC's September 2024 decision to cut the federal funds rate by 50 basis points marks a meaningful inflection point in this historic tightening cycle — and I believe it deserves to be recognized as a significant policy achievement.\n\nOver the past two years, the Federal Reserve raised rates by 525 basis points, the most aggressive tightening cycle since the Volcker era. Critics warned of a hard landing. Recession forecasts proliferated across Wall Street. And yet, as we stand here today, inflation has returned within striking distance of the 2% target, the labor market remains historically strong, and the economy has continued to expand.\n\nThe Federal Reserve Bank of San Francisco played a meaningful role in this outcome. President Mary Daly and her team's research on labor market resilience and the 'immaculate disinflation' thesis helped shape the intellectual framework for a calibrated, evidence-based approach. Their work on the Beveridge curve and job vacancy normalization was particularly prescient.\n\nIs the job fully done? No. Shelter inflation remains elevated. Geopolitical risks are real. But this moment deserves acknowledgment. The Fed got more right than wrong. That matters.",
+    "sentiment": "positive",
+    "sentiment_score": 0.74,
+    "topic": "fomc_meeting",
+    "engagement_score": 5630,
+    "reply_count": 287,
+    "repost_count": 1890,
+    "timestamp": "2024-09-19T11:00:00Z",
+    "hashtags": [
+      "FederalReserve",
+      "FOMC",
+      "RateCut",
+      "MonetaryPolicy",
+      "SoftLanding",
+      "FRBSF"
+    ]
+  },
+  {
+    "id": "SM-00010",
+    "platform": "twitter",
+    "author_type": "public",
+    "author_handle": "@MainStreetMomKC",
+    "text": "Groceries up, rent up, childcare up. The Fed says inflation is coming down but it sure doesn't feel like it at the checkout line. When does this actually get better for regular people? #RealInflation #CostOfLiving #FedFail",
+    "sentiment": "negative",
+    "sentiment_score": -0.72,
+    "topic": "inflation_data",
+    "engagement_score": 24500,
+    "reply_count": 1820,
+    "repost_count": 8900,
+    "timestamp": "2023-05-10T19:22:00Z",
+    "hashtags": [
+      "RealInflation",
+      "CostOfLiving",
+      "FedFail"
+    ]
+  },
+  {
+    "id": "SM-00011",
+    "platform": "twitter",
+    "author_type": "journalist",
+    "author_handle": "@EconBeatReporter",
+    "text": "BREAKING: Fed raises rates by 75bps for the 4th consecutive time. Powell signals more hikes ahead as inflation remains 'far too high.' Fed funds rate now at 3.75%-4.00%. #FederalReserve #FOMC #RateHike",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topic": "fed_rate_decision",
+    "engagement_score": 4821,
+    "reply_count": 312,
+    "repost_count": 1547,
+    "timestamp": "2022-11-02T18:05:00Z",
+    "hashtags": [
+      "FederalReserve",
+      "FOMC",
+      "RateHike"
+    ]
+  },
+  {
+    "id": "SM-00012",
+    "platform": "reddit",
+    "author_type": "economist",
+    "author_handle": "u/MacroPolicy_Nerd",
+    "text": "Deep dive on today's FRBSF Economic Letter regarding neutral rate estimates. The paper suggests r-star may have shifted upward post-pandemic due to structural changes in savings behavior and fiscal deficits. This has major implications for how restrictive current policy actually is. If neutral is now 2.5-3% instead of the pre-pandemic ~0.5%, then the Fed is barely in restrictive territory at 5.25-5.50%. Daly's team at the SF Fed has been consistently more hawkish than the median FOMC member on this question. What are people's thoughts on the neutral rate debate? Are we in a new era of structurally higher rates? r/economics r/finance",
+    "sentiment": "neutral",
+    "sentiment_score": 0.05,
+    "topic": "economic_forecast",
+    "engagement_score": 2134,
+    "reply_count": 187,
+    "repost_count": 0,
+    "timestamp": "2024-03-15T14:22:00Z",
+    "hashtags": [
+      "FederalReserve",
+      "NeutralRate",
+      "FRBSF",
+      "MonetaryPolicy"
+    ]
+  },
+  {
+    "id": "SM-00013",
+    "platform": "linkedin",
+    "author_type": "financial_analyst",
+    "author_handle": "Sarah_Thornton_CFA",
+    "text": "The Federal Reserve Bank of San Francisco's latest research on labor market tightness raises important questions for portfolio positioning. President Mary Daly's remarks at yesterday's conference emphasized that the Fed remains data-dependent, but the underlying message was clear: policymakers are increasingly confident that inflation is on a sustainable path back to 2%. For fixed income investors, this signals a potential pivot window opening in H2 2024. We're adjusting duration exposure accordingly, gradually extending from short-term T-bills into the 5-7 year segment of the curve. Key risk: a resurgence in services inflation driven by wage growth, which the SF Fed has flagged as the most persistent component. As always, the path matters as much as the destination. Happy to discuss positioning strategies with colleagues navigating this environment.",
+    "sentiment": "positive",
+    "sentiment_score": 0.62,
+    "topic": "fed_chair_speech",
+    "engagement_score": 893,
+    "reply_count": 47,
+    "repost_count": 134,
+    "timestamp": "2024-01-19T09:45:00Z",
+    "hashtags": [
+      "FederalReserve",
+      "FixedIncome",
+      "MonetaryPolicy",
+      "FRBSF",
+      "Investing"
+    ]
+  },
+  {
+    "id": "SM-00014",
+    "platform": "twitter",
+    "author_type": "public",
+    "author_handle": "@JustATiredHomebuyer",
+    "text": "Mortgage rates hit 8%??? Thanks Fed. My dream of owning a home is officially dead. How is this helping regular people??? #FedRateHike #HousingCrisis #FederalReserve",
+    "sentiment": "negative",
+    "sentiment_score": -0.85,
+    "topic": "fed_rate_decision",
+    "engagement_score": 7643,
+    "reply_count": 892,
+    "repost_count": 2109,
+    "timestamp": "2023-10-19T16:33:00Z",
+    "hashtags": [
+      "FedRateHike",
+      "HousingCrisis",
+      "FederalReserve"
+    ]
+  },
+  {
+    "id": "SM-00015",
+    "platform": "reddit",
+    "author_type": "policy_commentator",
+    "author_handle": "u/CentralBankWatcher",
+    "text": "Let's talk about the FRBSF's role in the SVB collapse and what it means for Fed credibility on bank supervision. The SF Fed was SVB's primary supervisor and the post-mortem from the Fed's own review (Barr report) was scathing — citing 'poor supervision' and a failure to act despite repeated warnings. This isn't just a political talking point; it's a systemic question about whether the decentralized Fed structure creates accountability gaps. The 12-district model made sense in 1913. Does it still make sense when a $200B bank can fail partly because its regional regulator didn't escalate concerns fast enough? Interested in r/finance and r/Economics perspectives on whether structural reform of Fed supervision is warranted or if this was purely an execution failure.",
+    "sentiment": "negative",
+    "sentiment_score": -0.58,
+    "topic": "bank_supervision",
+    "engagement_score": 3891,
+    "reply_count": 421,
+    "repost_count": 0,
+    "timestamp": "2023-05-09T11:17:00Z",
+    "hashtags": [
+      "FederalReserve",
+      "SVB",
+      "BankSupervision",
+      "FRBSF",
+      "BankingRegulation"
+    ]
+  },
+  {
+    "id": "SM-00016",
+    "platform": "twitter",
+    "author_type": "financial_analyst",
+    "author_handle": "@RatesDesk_Marcus",
+    "text": "CPI comes in at 3.2% YoY vs 3.3% expected. Core still sticky at 3.8%. Not enough for March cut imo. Fed needs 2-3 more prints like this before Daly & Co feel comfortable. #CPI #Inflation #FederalReserve #Rates",
+    "sentiment": "neutral",
+    "sentiment_score": -0.12,
+    "topic": "inflation_data",
+    "engagement_score": 2247,
+    "reply_count": 183,
+    "repost_count": 612,
+    "timestamp": "2024-02-13T09:02:00Z",
+    "hashtags": [
+      "CPI",
+      "Inflation",
+      "FederalReserve",
+      "Rates"
+    ]
+  },
+  {
+    "id": "SM-00017",
+    "platform": "linkedin",
+    "author_type": "economist",
+    "author_handle": "Dr_Priya_Venkataraman",
+    "text": "The FOMC's decision to hold rates steady at 5.25%-5.50% for the third consecutive meeting reflects a sophisticated balancing act that deserves more nuanced coverage than it typically receives in financial media. The Federal Reserve Bank of San Francisco's research on supply-side inflation dynamics has been particularly illuminating — their work decomposing inflation into demand-driven versus supply-constrained components suggests that the bulk of the disinflation we've seen is indeed supply normalization, not demand destruction. This is actually the soft landing scenario playing out. Yes, rates are high by recent historical standards, but the labor market has remained remarkably resilient. JOLTS, payrolls, and claims data all suggest we avoided the unemployment spike that many — myself included — feared would be a necessary cost of bringing inflation down. The Fed deserves credit for navigating a genuinely unprecedented post-pandemic environment. The debate now shifts to timing and pace of normalization, not whether a hard landing is coming.",
+    "sentiment": "positive",
+    "sentiment_score": 0.74,
+    "topic": "fomc_meeting",
+    "engagement_score": 1567,
+    "reply_count": 89,
+    "repost_count": 203,
+    "timestamp": "2024-01-31T13:30:00Z",
+    "hashtags": [
+      "FOMC",
+      "FederalReserve",
+      "SoftLanding",
+      "MonetaryPolicy",
+      "Inflation"
+    ]
+  },
+  {
+    "id": "SM-00018",
+    "platform": "twitter",
+    "author_type": "journalist",
+    "author_handle": "@FinanceNewsNow_K",
+    "text": "The Fed's QT program has now reduced its balance sheet by over $1.3 trillion since June 2022. @FRBSF researchers note the impact on long-term yields remains uncertain. Full analysis: [link] #QuantitativeTightening #FederalReserve #Bonds",
+    "sentiment": "neutral",
+    "sentiment_score": 0.02,
+    "topic": "quantitative_tightening",
+    "engagement_score": 1104,
+    "reply_count": 67,
+    "repost_count": 389,
+    "timestamp": "2023-08-14T10:45:00Z",
+    "hashtags": [
+      "QuantitativeTightening",
+      "FederalReserve",
+      "Bonds"
+    ]
+  },
+  {
+    "id": "SM-00019",
+    "platform": "reddit",
+    "author_type": "public",
+    "author_handle": "u/WorkingClassEcon101",
+    "text": "Can someone explain to me in plain English why the Federal Reserve keeps saying the job market is 'too strong'? I work two part-time jobs, can barely afford rent, and somehow that means the Fed has to keep rates high to slow things down? My understanding is inflation hurts poor people most, but so do high interest rates on credit cards and auto loans. It feels like we're damned either way and regular people just absorb the costs of policy experiments. Not trying to be political, genuinely trying to understand the logic. r/economics can you help me out here? Is there a version of Fed policy that actually prioritizes regular workers over investors?",
+    "sentiment": "negative",
+    "sentiment_score": -0.67,
+    "topic": "fomc_meeting",
+    "engagement_score": 12453,
+    "reply_count": 934,
+    "repost_count": 0,
+    "timestamp": "2023-07-06T20:11:00Z",
+    "hashtags": [
+      "FederalReserve",
+      "InterestRates",
+      "Economy",
+      "WorkingClass"
+    ]
+  },
+  {
+    "id": "SM-00020",
+    "platform": "linkedin",
+    "author_type": "policy_commentator",
+    "author_handle": "EleanorHayes_PolicyLead",
+    "text": "Mary Daly's speech at the Economic Club this week offered a masterclass in central bank communication. The FRBSF President threaded a difficult needle: acknowledging progress on inflation without pre-committing to a rate cut timeline that markets would immediately price in aggressively. What struck me most was her emphasis on the employment side of the dual mandate — a deliberate signal that the Fed is not exclusively inflation-focused and is watching labor market softening carefully. This matters for how we interpret forward guidance. The Fed has learned painful lessons about over-communication since the taper tantrum of 2013. Daly's measured, data-conditional framing represents the institutional evolution of that lesson. For those of us in public policy, it's also a reminder that credibility is the Fed's most valuable asset — and that every speech is a deposit or withdrawal from that account.",
+    "sentiment": "positive",
+    "sentiment_score": 0.68,
+    "topic": "fed_chair_speech",
+    "engagement_score": 742,
+    "reply_count": 38,
+    "repost_count": 115,
+    "timestamp": "2024-04-05T08:20:00Z",
+    "hashtags": [
+      "FederalReserve",
+      "FRBSF",
+      "MaryDaly",
+      "MonetaryPolicy",
+      "CentralBanking"
+    ]
+  }
+]
