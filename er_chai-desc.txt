@@ -1,0 +1,86 @@
+FRBSF Chart Builder — Project Description
+What Is This?
+The FRBSF Chart Builder is an AI-powered web application built for the Federal Reserve Bank of San Francisco's Economic Research division. It enables economists and research analysts to rapidly create, customize, and publish publication-quality economic charts from FRED (Federal Reserve Economic Data) datasets or uploaded CSV/Excel files — with AI assistance at every step.
+
+The tool combines a visual canvas editor (drag-and-drop chart elements), a natural language AI assistant (powered by AWS Bedrock Claude Sonnet 4.5), and Vision AI (OpenCV + Bedrock Vision) that can analyze a reference chart image and replicate its styling automatically. The result is a complete chart authoring workflow: from raw data ingestion to polished, branded output ready for FRBSF publications, policy briefs, and presentations.
+
+The Use Case
+Economic research teams at the Federal Reserve regularly produce charts for Economic Letters, working papers, policy briefings, and public-facing web content. The typical workflow involves:
+
+Downloading data from FRED or internal sources
+Building charts in Excel, matplotlib, R/ggplot2, or proprietary tools
+Manually matching FRBSF brand guidelines (colors, fonts, layout conventions)
+Adding annotations like recession bands, policy rate targets, and event markers
+Writing executive summaries that contextualize the data
+Exporting in multiple formats for different audiences (web, print, code-reproducible)
+Each of these steps is manual, time-consuming, and error-prone. Formatting consistency across publications is hard to maintain. When a chart needs revision — a different date range, a new annotation, a chart type change — the analyst often starts from scratch.
+
+The FRBSF Chart Builder collapses this entire pipeline into a single interactive session.
+
+Business Value
+Time savings. What typically takes 30-60 minutes of manual chart creation, formatting, and export can be done in under 5 minutes. Paste a FRED URL, get a chart. Upload a reference image, get matching styling. Ask the AI to add annotations. Generate a summary. Export.
+
+Brand consistency. Every chart produced follows FRBSF visual standards. Colors, fonts, axis formatting, and layout are applied automatically — either from defaults or by mimicking an approved reference image. This eliminates the "every analyst has their own style" problem.
+
+Reproducibility. Charts export as standalone Python (matplotlib) and R (ggplot2) scripts with embedded data. Any colleague can re-run the script to reproduce the exact chart without needing the original tool, data files, or configuration. This matters for peer review, audit trails, and publication workflows.
+
+Accessibility of AI. The natural language AI assistant lowers the barrier for analysts who aren't comfortable with code. Instead of writing matplotlib commands to add a horizontal reference line at 2% with a dotted red style, they type "add a dotted red line at 2% labeled inflation target." The AI handles the translation.
+
+Institutional knowledge capture. Executive summaries are auto-generated with trend analysis, peak/trough identification, forward-looking outlook, and economist-perspective interpretation. This provides a structured starting point that analysts can refine, ensuring key analytical dimensions aren't overlooked.
+
+What It Can Do
+Data Ingestion
+
+Paste any FRED URL (e.g., https://fred.stlouisfed.org/series/GDP) to automatically download the series and generate a chart
+Upload CSV or Excel files with automatic date detection and long-format pivoting
+Optionally attach a reference chart image (screenshot of a FRED page, a published chart, or an internal template) — the Vision AI extracts colors, chart type, annotations, gridlines, axis formatting, and data table structure, then applies that styling to your data
+Interactive Chart Editing
+
+Drag-and-drop canvas: move title, legend entries, annotations, and data table anywhere
+Chart types: line, bar, area, and mixed (per-series type selection)
+Full axis control: labels, ranges, scales (linear/log), Y-axis formatting (auto, integer, percent, decimal), line widths, font sizes
+Annotations: horizontal reference lines, vertical event lines, recession-style shaded bands, floating text labels — all addable via UI buttons or AI commands
+Data table: transposed time-series table with series-colored text, computed columns (e.g., month-over-month change), and drag-to-resize handles on the canvas
+Right-click context menus for font customization, label renaming, and annotation deletion
+Resizable VS Code-style split panes for all screen sections
+AI Assistant
+
+Natural language chart modifications: "change to area chart," "make the y-axis show percentages," "add a vertical band for the 2020 recession," "change the title to GDP Growth"
+Data Q&A: "what was the peak value?", "when did the series reach its lowest point?", "compare the trend before and after 2020"
+Executive summary generation and updates: auto-generates structured summaries with trend analysis, peaks/troughs, predictions, and economist perspective; supports appending additional analysis via chat
+Undo support for AI-driven chart changes
+Export
+
+Python: standalone matplotlib script with embedded data, date-aware x-axis, area fills, annotations, and FRBSF branding (zip with requirements.txt)
+R: standalone ggplot2 script with embedded data (zip with install_packages.R)
+PDF: high-resolution chart image (300 DPI) with executive summary and FRBSF branding
+All exports work without saving a project first — export directly from the current canvas
+Project Management
+
+Save and load charts to a local SQLite database
+Resume work across sessions with full state restoration including dataset reload
+Why Economic Analysts Should Use It
+It speaks your language. The AI assistant understands economic chart conventions. Ask for "recession bands" and it creates vertical shaded regions. Ask for an "inflation target line" and it adds a horizontal dotted line. It knows what FRED series are, what annotations economists typically use, and how to structure an executive summary with the right analytical framework.
+
+It eliminates formatting drudgery. Matching a published chart's exact styling — colors, line widths, gridline patterns, axis formatting, annotation placement — is tedious manual work. Upload a screenshot of the target chart and the Vision AI does it for you. This is especially valuable when updating charts for recurring publications where visual consistency across editions matters.
+
+It bridges the code gap. Not every economist writes Python or R fluently. The Chart Builder lets you create a chart visually, then export it as clean, runnable code. This means the chart is both visually authored and computationally reproducible — satisfying both the "I need it now" and "it needs to be reproducible" requirements.
+
+It keeps you in flow. Instead of switching between FRED's website, a spreadsheet, a coding environment, and a document editor, everything happens in one interface. Data ingestion, chart creation, annotation, summary writing, and export are all in the same session.
+
+It produces publication-ready output. The PDF export includes FRBSF branding, high-resolution chart rendering, and the executive summary — ready to attach to an Economic Letter draft or share with a policy team. The Python/R exports are ready for a research appendix or replication package.
+
+How the Output Will Be Used
+The outputs from the FRBSF Chart Builder feed directly into the economic research publication pipeline:
+
+Economic Letters and Working Papers: Charts are exported as PDF or high-resolution images and embedded in publications. The accompanying Python/R scripts go into replication packages that allow peer reviewers and future researchers to reproduce the analysis.
+
+Policy Briefings and Presentations: Charts with executive summaries are used in internal briefings for bank leadership and FOMC preparation. The auto-generated summary provides a structured analytical narrative that economists refine for their specific audience.
+
+Public-Facing Web Content: FRBSF publishes economic data visualizations on its website. The consistent branding and export capabilities ensure charts meet web publication standards.
+
+Cross-Team Collaboration: Saved projects and exported code scripts allow analysts to share work with colleagues. One economist can create a chart, save the project, and another can load it, modify it, and re-export — maintaining continuity across team members and over time.
+
+Data Exploration and Analysis: Before committing to a publication chart, analysts use the tool for rapid exploration — trying different chart types, date ranges, and annotations to find the most effective way to communicate a data story. The AI Q&A feature helps surface insights (peaks, troughs, trends) that inform the narrative.
+
+Archival and Audit: Exported Python/R scripts with embedded data serve as a permanent, self-contained record of how a chart was produced. This supports institutional requirements for reproducibility and transparency in published research.
