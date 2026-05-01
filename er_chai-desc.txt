@@ -1,3 +1,13 @@
+Color Palette
+Dark blue = 2e5e8b = R39:G86:B103
+Green = 8baf3e = R141:G160:B43
+Gold = fcc62d = R241:G164:B43
+Light blue = 88cde5 = R101:G149:B163
+Red = b63b36 = R179:G50:B44
+Dark gray = 474747 = R63:G62:B54
+
+
+
 FRBSF Chart Builder — Project Description
 What Is This?
 The FRBSF Chart Builder is an AI-powered web application built for the Federal Reserve Bank of San Francisco's Economic Research division. It enables economists and research analysts to rapidly create, customize, and publish publication-quality economic charts from FRED (Federal Reserve Economic Data) datasets or uploaded CSV/Excel files — with AI assistance at every step.
