@@ -5,7 +5,7 @@ Gold = fcc62d = R241:G164:B43
 Light blue = 88cde5 = R101:G149:B163
 Red = b63b36 = R179:G50:B44
 Dark gray = 474747 = R63:G62:B54
-
+Always show recession shadings by default & make the lines thicker and font size bigger by default
 
 
 FRBSF Chart Builder — Project Description
